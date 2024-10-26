@@ -1,5 +1,5 @@
-base_url = "https://not-matthias.github.io/apollo/"
-title = "not-matthias"
+base_url = "https://blitzw.in"
+title = "blitzw.in"
 description = "This is an example description"
 build_search_index = false
 generate_feeds = true
@@ -23,15 +23,14 @@ mathjax_dollar_inline_enable = true
 repo_url = "https://github.com/not-matthias/apollo/tree/main/content"
 
 menu = [
-    { name = "/posts", url = "/posts", weight = 1 },
-    { name = "/projects", url = "/projects", weight = 2 },
-    { name = "/about", url = "/about", weight = 3 },
-    { name = "/tags", url = "/tags", weight = 4 },
+    { name = "index", url = "/", weight = 1 },
+    { name = "services", url = "/services", weight = 2 },
+    { name = "collection", url = "/collection", weight = 3 },
+    { name = "other", url = "/tags", weight = 4 },
 ]
 
 socials = [
-    { name = "twitter", url = "https://twitter.com/not_matthias", icon = "twitter" },
-    { name = "github", url = "https://github.com/not-matthias/", icon = "github" },
+    { name = "instagram", url = "https://instagram.com/blitzw.in", icon = "instagram" },
 ]
 
 custom_css = []
