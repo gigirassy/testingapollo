@@ -1,0 +1,54 @@
+{% import "macros/macros.html" as post_macros %}
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% set current_path = current_path | default(value="/") %}
+    {% if current_path == "/" %}
+    <footer>
+        🇵🇸 Ⓐ
+    </footer>
+        {% endfor %}
+    {% endif %}
+
+    {% set theme = config.extra.theme | default(value="toggle") %}
+    {% if theme == "dark" %}
+        <link rel="stylesheet" type="text/css" href="{{ get_url(path='theme/dark.css') }}" />
+    {% elif theme == "light" %}
+        <link rel="stylesheet" type="text/css" href={{ get_url(path="theme/light.css") }} />
+    {% elif theme == "auto" %}
+        <link rel="stylesheet" type="text/css" href={{ get_url(path="theme/light.css") }} />
+        <link rel="stylesheet" type="text/css" href="{{ get_url(path='theme/dark.css') }}" media="(prefers-color-scheme: dark)" />
+    {% elif theme == "toggle" %}
+        <link rel="stylesheet" type="text/css" href={{ get_url(path="theme/light.css") }} />
+        <link id="darkModeStyle" rel="stylesheet" type="text/css" href="{{ get_url(path='theme/dark.css') }}" />
+    {% endif %}
+
+    <!-- Set the correct theme in the script -->
+    <script src={{ get_url(path="js/themetoggle.js") }}></script>
+    {% if theme == "dark" %}
+        <script>setTheme("dark");</script>
+    {% elif theme == "light" %}
+        <script>setTheme("light");</script>
+    {% elif theme == "auto" %}
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    {% else %}
+        <script>setTheme(getSavedTheme());</script>
+    {% endif %}
+
+    <link rel="stylesheet" type="text/css" media="screen" href={{ get_url(path="main.css") }} />
+
+    {% if config.extra.stylesheets %}
+        {% for stylesheet in config.extra.stylesheets %}
+            <link rel="stylesheet" href="{{ get_url(path=stylesheet) }}">
+        {% endfor %}
+    {% endif %}
+</head>
