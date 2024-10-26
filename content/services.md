@@ -17,7 +17,7 @@ By using the services, you agree that you will not use them for exploitation of 
 
 #### _Squawk!_
 
-<span style="float:right;">![squawktalk]</span>(/squawktalk.png) Squawktalk from Transformers, the [honorary canary](https://www.eff.org/deeplinks/2014/04/warrant-canary-faq), would like to inform you that my services have not been served a warrant, subpoena, or forced to do any modifications by law enforcement. Pay attention; if Squawktalk leaves, run.
+<span style="float:right;">![squawktalk](/squawktalk.png)</span> Squawktalk from Transformers, the [honorary canary](https://www.eff.org/deeplinks/2014/04/warrant-canary-faq), would like to inform you that my services have not been served a warrant, subpoena, or forced to do any modifications by law enforcement. Pay attention; if Squawktalk leaves, run.
 
 ### Services
 
