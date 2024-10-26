@@ -1,5 +1,5 @@
-base_url = "https://testingapollo.vercel.app/"
-title = "nune's site"
+base_url = "https://blitzw.in/"
+title = "Nune's Site"
 description = "This is an example description"
 build_search_index = false
 generate_feeds = true
