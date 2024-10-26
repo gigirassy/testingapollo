@@ -1,4 +1,4 @@
-base_url = "https://testingapollo.vercel.app"
+base_url = "https://testingapollo.vercel.app/"
 title = "nune's site"
 description = "This is an example description"
 build_search_index = false
