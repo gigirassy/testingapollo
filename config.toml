@@ -1,4 +1,4 @@
-base_url = "https://blitzw.in"
+base_url = "https://not-matthias.github.io/apollo/"
 title = "nune's site"
 description = "This is an example description"
 build_search_index = false
