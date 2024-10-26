@@ -8,6 +8,6 @@ New site! This is a WIP.
 
 In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005.
 
-The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these services due to privacy reasons, you can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](PGP.txt. 
+The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these services due to privacy reasons, you can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt). 
 
 There's a handy navbar at the top now! Browse it for more info.
