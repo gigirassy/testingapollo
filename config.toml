@@ -35,7 +35,7 @@ socials = [
 ]
 
 badges = [
-    { name = "pal", url = "https://gazafunds.com/",}
+    { name = "pal", url = "https://gazafunds.com/"},
 ]
 
 custom_css = []
