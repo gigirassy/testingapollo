@@ -1,0 +1,10 @@
+<footer>
+        <div>
+            {% for badges in config.extra.badges | default(value=[]) %}
+            <a href="{{ badge.url }}">
+                <img src={{ get_url(path="badge/" ~ badge ~ ".gif") }}>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</footer>
