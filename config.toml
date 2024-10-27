@@ -34,6 +34,10 @@ socials = [
     { name = "tfw2005", url = "https://www.tfw2005.com/boards/members/nune.139750/", icon = "tfw" },
 ]
 
+badges = [
+    { name = "pal", url = "https://gazafunds.com/",}
+]
+
 custom_css = []
 
 [extra.analytics]
