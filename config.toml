@@ -34,7 +34,7 @@ socials = [
     { name = "tfw2005", url = "https://www.tfw2005.com/boards/members/nune.139750/", icon = "tfw" },
 ]
 
-badges = [
+badge = [
     { name = "pal", url = "https://gazafunds.com/"},
 ]
 
