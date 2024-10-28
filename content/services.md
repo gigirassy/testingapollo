@@ -35,11 +35,12 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [Cobalt](https://co.blitzw.in): Download media files from many social media sites. Doesn't really work for Youtube on my instance for some unholy reason, but it should download Instagram and Soundcloud, among other things. Hosted on a Hetzner VPS.
 *   [Stirling PDF](https://pdf.blitzw.in): Helpful tools for your PDFs! Hetzner-hosted.
 *   [IT Tools](https://tools.blitzw.in): Loads of helpful tools for developers, like decoding and encoding stuff, generating QR codes, and more. Hosted on Vercel at no cost to me.
-*   [Nopaste](https://www.blitzw.in/nopaste/): Entirely client-side Pastebin. Hosted on GitHub Pages at no cost to me. **Warning: PASTES GENERATED HERE DO NOT EXPIRE. Do not use this to share sensitive information. [Use a Privatebin instance instead, like this one.](https://pb.envs.net)**
+*   [Privatebin](https://bin.blitzw.in): A private, encrypted Pastebin! Use it to share your love notes, code, and more.
 
 #### Frontends!
 
 *   [SimplyTranslate](https://hothead.blitzw.in): A translation frontend that doesn't track you! Translate from and to many languages here. Hosted on a Hetzner VPS.
+*   [Mozhi](https://moz.blitzw.in): Another translation frontend that doesn't track you! Translate from and to many languages here. Hosted on a WebDock VPS.
 *   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!) Hosted on a Hetzner VPS.
 *   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! Hetzner-hosted. \*\*Under basic auth due to data scraping\*\*. Username is blitzwing and password is redlib.
 
