@@ -47,9 +47,3 @@ By using the services, you agree that you will not use them for exploitation of 
 ### Not-Publicly Linked Services
 
 *   Invidious: This is hosted on a different VPS than what I normally use, one that hasn't been blocked yet. To prevent people from abusing it to the point where the VPS is blocked, you'll have to email me for the link. nune\[.at.\]imap\[.dot.\]fi . Doesn't have to be formal, you can just put something like "Can I has Invidious" in the subject with a cute cat pic attached and I'll send it to you. Alias will not be replied to. I won't care about what you watch.
-
-### Planned services
-
-If it's not here, please don't inquire about it.
-
-*   PrivateBin: One day, I'll get it figured out.
