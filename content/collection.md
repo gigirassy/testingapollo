@@ -43,11 +43,8 @@ I have a mix of official, third party, and KO toys.
 
 ### Third Party:
 
-*   Dr. Wu Path( )Finder
-*   Dr. Wu "Heaven Eye"
-*   Dr. Wu "Sand Dust"
-*   Dr. Wu "Turbo"
 *   Newage "Mimic"
+*   Chang Tiao CT-01 Core Megatron
 
 ### KO:
 
