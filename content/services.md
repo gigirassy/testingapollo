@@ -39,12 +39,12 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [Stirling PDF](https://pdf.blitzw.in): Helpful tools for your PDFs!
 *   [IT Tools](https://tools.blitzw.in): Loads of helpful tools for developers, like decoding and encoding stuff, generating QR codes, and more.
 *   [Privatebin](https://bin.blitzw.in): A private, encrypted Pastebin! Use it to share your love notes, code, and more.
-*   [Wikimore](https://wikimore.blitzw.in): A frontend for MediaWiki projects.
 
 #### Frontends!
 
 *   [Mozhi](https://moz.blitzw.in): Another translation frontend that doesn't track you! Translate from and to many languages here.
 *   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
+*   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
 *   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. \*\*Under basic auth due to data scraping\*\*. Username is blitzwing and password is redlib.
 
 ### Not-Publicly Linked Services
