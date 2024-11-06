@@ -8,7 +8,15 @@ Stuff you may or may not want to ask me about, but I'm going to answer anyways.
 
 If it's not answered here, feel free to contact me through Instagram/Email/Discord.
 
-**Navigation**: CTRL + F
+#### Why do you use neopronouns? Why don't you just use they/them?
+
+That's a common question I receive. A general reason why people might use neopronouns is because he, she, or they doesn't sit right with them personally, which is my case. Another reason, belonging often to the funkier ones, is because trans people might want to express their interests. Many neopronoun sets are older than you think, not that new ones being coined is an issue. My main neopronoun set dates to the 70s.
+
+If you don't understand how to use someone's neopronouns, they'll generally be happy to explain and you'll get used to it with practice!
+
+Ey/em is used exactly like singular they/them without the th. That shouldn't be too hard to figure out.
+
+Lun/luns is a nounself pronoun set. Most, but all nounself pronoun sets, are used by replacing the it in it/its with the noun. This kind of pronoun set dates to the 1800s at least, with thon/thons.
 
 #### What does Autigender mean?
 
