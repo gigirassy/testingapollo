@@ -16,7 +16,7 @@ If you don't understand how to use someone's neopronouns, they'll generally be h
 
 Ey/em is used exactly like singular they/them without the th. That shouldn't be too hard to figure out.
 
-Lun/luns is a nounself pronoun set. Most, but all nounself pronoun sets, are used by replacing the it in it/its with the noun. This kind of pronoun set dates to the 1800s at least, with thon/thons.
+Lun/luns is a nounself pronoun set. Most, but not all nounself pronoun sets, are used by replacing the it in it/its with the noun. This kind of pronoun set dates to the 1800s at least, with thon/thons.
 
 #### What does Autigender mean?
 
