@@ -2,11 +2,11 @@
 template = "homepage.html"
 +++
 
-New site! This is a WIP.
+<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender.
 
-<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. I use ey/em pronouns (and trying out lun/luns as a secondary), which work exactly like singular they without the th. I'm also Autigender.
+In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005. [I also occasionally leak those toys when I'm lucky](https://www.tfw2005.com/boards/threads/transformers-collaborative-naruto-shippuden-kurama-gamakichi-anime-toys-tra-gen-project-tails.1268943/).
 
-In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005.
+I am simultaneously the most legally insane and sane person on the internet at once.
 
 **What you're probably here for are my services like my SearXNG and Breezewiki instances! You can see them via the Services portion of the navbar.**
 
