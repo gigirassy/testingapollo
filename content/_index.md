@@ -2,7 +2,7 @@
 template = "homepage.html"
 +++
 
-<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender.
+<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender. ![autigender flag icon](/Autigendersmall.png)
 
 In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005. [I also occasionally leak those toys when I'm lucky](https://www.tfw2005.com/boards/threads/transformers-collaborative-naruto-shippuden-kurama-gamakichi-anime-toys-tra-gen-project-tails.1268943/).
 
