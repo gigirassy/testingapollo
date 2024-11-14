@@ -45,10 +45,11 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
 *   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
 *   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. \*\*Under basic auth due to data scraping\*\*. Username is blitzwing and password is redlib.
+*   [LightTube](https://light.blitzw.in): Watch YouTube without being tracked! Age-restricted videos not available, unfortunately.
 
 ### Not-Publicly Linked Services
 
-*   Invidious: This is hosted on a different VPS than what I normally use, one that hasn't been blocked yet. To prevent people from abusing it to the point where the VPS is blocked, you'll have to email me for the link. nune\[.at.\]imap\[.dot.\]fi . Doesn't have to be formal, you can just put something like "Can I has Invidious" in the subject with a cute cat pic attached and I'll send it to you. Alias will not be replied to. I won't care about what you watch.
+*   Invidious: This is hosted on a different VPS than what I normally use, one that hasn't been blocked yet. To prevent people from abusing it to the point where the VPS is blocked, you'll have to email me for the link. nune\[.at.\]imap\[.dot.\]fi . Doesn't have to be formal, you can just put something like "Can I has Invidious" in the subject with a cute cat pic attached and I'll send it to you. Alias will not be replied to. I won't care about what you watch. If you don't want to contact me, use LightTube instead.
 
 ### Specs:
 
