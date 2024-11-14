@@ -38,13 +38,14 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [Stirling PDF](https://pdf.blitzw.in): Helpful tools for your PDFs!
 *   [IT Tools](https://tools.blitzw.in): Loads of helpful tools for developers, like decoding and encoding stuff, generating QR codes, and more.
 *   [Privatebin](https://bin.blitzw.in): A private, encrypted Pastebin! Use it to share your love notes, code, and more.
+*   [Cobalt](https://co.blitzw.in): Download files from many social media sites! Uses Cobalt 7 instead of 10. I have a petty grudge towards the developer for making it so in versions 10 amd up, only the API and not the UI is easily self-hostable. Why? They want you to use it at a centralized UI that uses a product by Cloudflare, which basically defeats the point of open-source privacy software. Nevertheless, I find version 7 helpful. **Under basic auth**. Username is blitzwing and password is cloudflarehater3000.
 
 #### Frontends!
 
 *   [Mozhi](https://moz.blitzw.in): Another translation frontend that doesn't track you! Translate from and to many languages here.
 *   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
 *   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
-*   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. \*\*Under basic auth due to data scraping\*\*. Username is blitzwing and password is redlib.
+*   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. **Under basic auth due to data scraping**. Username is blitzwing and password is redlib.
 *   [LightTube](https://light.blitzw.in): Watch YouTube without being tracked! Age-restricted videos not available, unfortunately.
 
 ### Not-Publicly Linked Services
