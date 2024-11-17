@@ -9,7 +9,7 @@ These are services I host on subdomains of this site, through VPSes, and simple 
 
 I had some misadventures beforehand, before I realized a VPS with Caddy and Docker would be easier. (and easier it was!)
 
-Donations: In lieu of giving me money directly, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 11 USD a month.
+Donations: In lieu of giving me money directly, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month.
 
 ### Usage Policy
 
@@ -50,6 +50,7 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. **Under basic auth due to data scraping**. Username is blitzwing and password is redlib.
 *   [LightTube](https://light.blitzw.in): Watch YouTube without being tracked! Age-restricted videos not available, unfortunately.
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
+*   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
 
 ### Not-Publicly Linked Services
 
@@ -59,4 +60,5 @@ By using the services, you agree that you will not use them for exploitation of 
 
 * SearXNG uses a Hetzner VPS located in Finland that costs $3.29 euro a month. Specs are: 2VCPU, 4GB RAM, 40GB space.
 * IT Tools is hosted on Vercel at no cost to me.
-* Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 10GB of RAM and 50GB of space, costing $7.10 USD a month.
+* My file server, Lighttube, Binternet, Cobalt, and Etherpad instances run on a Webdock KVM VPS with minimal specs.
+* Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 12GB of RAM, running on 4 threads and 80GB of space, costing $10.00 USD a month.
