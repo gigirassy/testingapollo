@@ -22,6 +22,10 @@ Lun/luns is a nounself pronoun set. Most, but not all nounself pronoun sets, are
 
 That autism influences how I see my nonbinary gender. It's a pretty recent label coined by the Autistic community, but it's not a new concept.
 
+#### Other than your pronouns, what can I call you?
+
+Solely call me Nune, and avoid explictly gendered terms aside from stuff like "guy". Also, don't refer to me as human, I have species dysphoria. The term "person" is okay! Don't know what the heck I feel like yet. But honestly, the details are another story for close friends and probably not your business.
+
 #### What hobbies do you have?
 
 A lot. I do archival, draw, be the world's cutest anarchist, take funny pictures of my toys, take those toys on adventures, share current events commentary, and more. I also garden.
