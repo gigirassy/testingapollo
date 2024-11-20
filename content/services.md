@@ -51,6 +51,7 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [LightTube](https://light.blitzw.in): Watch YouTube without being tracked! Age-restricted videos not available, unfortunately.
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
 *   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
+*   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
 
 ### Not-Publicly Linked Services
 
