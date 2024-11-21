@@ -11,6 +11,11 @@ I am simultaneously the most legally insane and sane person on the internet at o
 **What you're probably here for are my services like my SearXNG and Breezewiki instances! You can see them via the Services portion of the navbar.**
 
 The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, you can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt). 
+
+<a href="https://www.abuseipdb.com/user/169005" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/169005.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
+
 <details><summary>Woah, webrings!</summary>
     <p><span><a href="https://webring.dinhe.net/prev/https://www.blitzw.in">prev</a> | <a href="https://webring.dinhe.net/">retronaut</a> | <a href="https://webring.dinhe.net/next/https://www.blitzw.in">next</a></span></p>
     <p><span><a href="https://webring.bucketfish.me/redirect.html?to=prev&name=blitzw.in">prev</a> | <a href="https://webring.bucketfish.me">bucketfish</a> | <a href="https://webring.bucketfish.me/redirect.html?to=next&name=blitzw.in">next</a></span></p>
