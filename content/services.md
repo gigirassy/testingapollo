@@ -48,7 +48,6 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
 *   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
 *   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. **Under basic auth due to data scraping**. Username is blitzwing and password is redlib.
-*   [LightTube](https://light.blitzw.in): Watch YouTube without being tracked! Age-restricted videos not available, unfortunately.
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
 *   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
