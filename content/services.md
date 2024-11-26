@@ -30,10 +30,6 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [SearXNG](https://search.blitzw.in/): A self-described "metasearch engine" that gathers results from many different search engines without tracking you.
 *   [LibreY](https://libre.blitzw.in/): Another "metasearch engine" that gathers results from many different search engines without tracking you. Feel free to set either it or SearXNG as your default!
 
-#### Sharing!
-
-*   [Send](https://send.blitzw.in): Transfer files with links! Up to 200MB allowed.
-
 #### Utility!
 
 *   [Stirling PDF](https://pdf.blitzw.in): Helpful tools for your PDFs!
