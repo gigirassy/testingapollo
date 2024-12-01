@@ -1,3 +1,5 @@
++++ path = "donations" +++
+
 For transparency purposes regarding my commitment to collective liberation, I've made a page showing the monthly donations I do towards causes I care about.
 
 I commit to not donate to orgs or individuals that have enough money, and I prioritize non-501(c) organizations. When 501(c) organizations are donated to, they have budgets of less than 30k USD per year to maximize impact.
