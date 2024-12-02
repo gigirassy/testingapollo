@@ -2,6 +2,42 @@
 template = "homepage.html"
 +++
 
+<script type="text/javascript">async function sendNotification(message) {
+    const ntfyUrl = `https://ntfy.catgirl.cloud/j1DWGC7lLVYermdM`; // Replace with your NTFY server URL if self-hosted
+
+    try {
+        const response = await fetch(ntfyUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'text/plain',
+            },
+            body: message
+        });
+
+        if (response.ok) {
+            alert('Notification sent successfully!');
+        } else {
+            alert('Failed to send notification. Please check your configuration.');
+        }
+    } catch (error) {
+        console.error('Error sending notification:', error);
+        alert('An error occurred while sending the notification.');
+    }
+}
+
+// Add event listener to handle form submission
+document.getElementById('ntfy-form').addEventListener('submit', function (event) {
+    event.preventDefault(); // Prevent default form submission
+    const message = document.getElementById('message').value.trim();
+
+    if (message) {
+        sendNotification(message);
+    } else {
+        alert('Please enter a message.');
+    }
+});</script>
+
+
 <span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender. ![autigender flag icon](/Autigendersmall.png)
 
 In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005. [I also occasionally leak those toys when I'm lucky](https://www.tfw2005.com/boards/threads/transformers-collaborative-naruto-shippuden-kurama-gamakichi-anime-toys-tra-gen-project-tails.1268943/).
@@ -11,6 +47,20 @@ I am simultaneously the most legally insane and sane person on the internet at o
 **What you're probably here for are my services like my SearXNG and Breezewiki instances! You can see them via the Services portion of the navbar.**
 
 The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, you can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt). 
+
+If you just want to send me a silly, non-serious message and don't expect a response, use the below form.
+<form id="ntfy-form">
+  <label for="message">message</label><br />
+  <textarea
+    id="message"
+    name="message"
+    rows="4"
+    cols="50"
+    placeholder="Enter your message"
+  ></textarea
+  ><br /><br />
+  <button type="submit">send</button>
+</form>
 
 <p style="text-align:left;"><a href="https://www.abuseipdb.com/user/169005" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/169005.svg" alt="AbuseIPDB Contributor Badge" style="width: 162px;background-color:white;"> <a href="https://www.mabsland.com/Adoption.html"><img src="/Censor_14c.gif" alt="14 and up censorship panda button"></a> <a href="https://watchtfa.com/"><img src="https://watchtfa.com/watchtfa.png" alt="Watch Transformers Animated Website button"></a><iframe src="//incr.easrng.net/badge?key=blitzywing" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
