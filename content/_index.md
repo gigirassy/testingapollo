@@ -57,8 +57,7 @@ If you just want to send me a silly, non-serious message and don't expect a resp
     rows="4"
     cols="50"
     placeholder="Enter your message"
-  ></textarea
-  ><br /><br />
+  ></textarea>
   <button type="submit">send</button>
 </form>
 
