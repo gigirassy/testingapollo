@@ -16,13 +16,13 @@ The most reliable way to contact me is through Discord or Instagram DMs, both of
 
 If you just want to send me a silly, non-serious message and don't expect a response, use the below form.
 <form id="ntfy-form">
-  <textarea
+  <input
     id="message"
     name="message"
     rows="4"
     cols="50"
     placeholder="Enter your message"
-  ></textarea>
+  ></input>
   <button type="submit">send</button>
 </form>
 
