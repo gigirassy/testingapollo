@@ -3,7 +3,8 @@ template = "homepage.html"
 +++
 
 <script type="text/javascript">async function sendNotification(message) {
-    const ntfyUrl = `https://ntfy.catgirl.cloud/j1DWGC7lLVYermdM`; // Replace with your NTFY server URL if self-hosted
+    const topic = 'j1DWGC7lLVYermdM'; // Replace with your NTFY topic
+    const ntfyUrl = `https://ntfy.catgirl.cloud/${topic}`; // Replace with your NTFY server URL if self-hosted
 
     try {
         const response = await fetch(ntfyUrl, {
