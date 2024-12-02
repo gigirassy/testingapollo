@@ -2,7 +2,7 @@
 template = "homepage.html"
 +++
 
-<script src"/ntfy.js"></script>
+<script src="/ntfy.js"></script>
 
 <span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender. ![autigender flag icon](/Autigendersmall.png)
 
