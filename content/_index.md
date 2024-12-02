@@ -12,9 +12,9 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, you can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt). 
 
-<a href="https://www.abuseipdb.com/user/169005" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/169005.svg" alt="AbuseIPDB Contributor Badge" style="width: 162px;background-color:white;"> <a href="https://www.mabsland.com/Adoption.html"><img src="/Censor_14c.gif" alt="14 and up censorship panda button"></a> <a href="https://watchtfa.com/"><img src="https://watchtfa.com/watchtfa.png" alt="Watch Transformers Animated Website button"></a>
-</a>
+<p style="text-align:left;"><a href="https://www.abuseipdb.com/user/169005" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/169005.svg" alt="AbuseIPDB Contributor Badge" style="width: 162px;background-color:white;"> <a href="https://www.mabsland.com/Adoption.html"><img src="/Censor_14c.gif" alt="14 and up censorship panda button"></a> <a href="https://watchtfa.com/"><img src="https://watchtfa.com/watchtfa.png" alt="Watch Transformers Animated Website button"></a><iframe src="//incr.easrng.net/badge?key=blitzywing" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
+</a></p>
 
 <details><summary>Woah, webrings!</summary>
     <p><span><a href="https://webring.dinhe.net/prev/https://www.blitzw.in">prev</a> | <a href="https://webring.dinhe.net/">retronaut</a> | <a href="https://webring.dinhe.net/next/https://www.blitzw.in">next</a></span></p>
