@@ -50,7 +50,6 @@ The most reliable way to contact me is through Discord or Instagram DMs, both of
 
 If you just want to send me a silly, non-serious message and don't expect a response, use the below form.
 <form id="ntfy-form">
-  <label for="message">message</label><br />
   <textarea
     id="message"
     name="message"
