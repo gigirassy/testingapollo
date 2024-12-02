@@ -2,42 +2,7 @@
 template = "homepage.html"
 +++
 
-<script type="text/javascript">async function sendNotification(message) {
-    const topic = 'j1DWGC7lLVYermdM'; // Replace with your NTFY topic
-    const ntfyUrl = `https://ntfy.catgirl.cloud/${topic}`; // Replace with your NTFY server URL if self-hosted
-
-    try {
-        const response = await fetch(ntfyUrl, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'text/plain',
-            },
-            body: message
-        });
-
-        if (response.ok) {
-            alert('Notification sent successfully!');
-        } else {
-            alert('Failed to send notification. Please check your configuration.');
-        }
-    } catch (error) {
-        console.error('Error sending notification:', error);
-        alert('An error occurred while sending the notification.');
-    }
-}
-
-// Add event listener to handle form submission
-document.getElementById('ntfy-form').addEventListener('submit', function (event) {
-    event.preventDefault(); // Prevent default form submission
-    const message = document.getElementById('message').value.trim();
-
-    if (message) {
-        sendNotification(message);
-    } else {
-        alert('Please enter a message.');
-    }
-});</script>
-
+<script src"/ntfy.js"></script>
 
 <span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender. ![autigender flag icon](/Autigendersmall.png)
 
