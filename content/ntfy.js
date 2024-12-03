@@ -1,5 +1,6 @@
 async function sendNotification(message) {
-    const ntfyUrl = `https://ntfy.catgirl.cloud/j1DWGC7lLVYermdM`; // Replace with your NTFY server URL if self-hosted
+    const topic = 'j1DWGC7lLVYermdM'; // Replace with your NTFY topic
+    const ntfyUrl = `https://ntfy.catgirl.cloud/${topic}`; // Replace with your NTFY server URL if self-hosted
 
     try {
         const response = await fetch(ntfyUrl, {
@@ -21,9 +22,8 @@ async function sendNotification(message) {
     }
 }
 
-// Add event listener to handle form submission
-document.getElementById('ntfy-form').addEventListener('submit', function (event) {
-    event.preventDefault(); // Prevent default form submission
+// Attach event listener to the button for click event
+document.getElementById('send-button').addEventListener('click', function () {
     const message = document.getElementById('message').value.trim();
 
     if (message) {
@@ -32,4 +32,3 @@ document.getElementById('ntfy-form').addEventListener('submit', function (event)
         alert('Please enter a message.');
     }
 });
-
