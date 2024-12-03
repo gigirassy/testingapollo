@@ -16,8 +16,7 @@ The most reliable way to contact me is through Discord or Instagram DMs, both of
 If you want to send a silly little notification to me that won't be traditionally responded to, use the below button! It shows up on my laptop. Be normal.
 <form id="ntfy-form">
     <label for="message">send me a message!</label><br>
-    <input id="message" name="message" rows="4" cols="50" placeholder="Enter your message"></input><br><br>
-    <button type="button" id="send-button">Send Notification</button>
+    <input id="message" name="message" rows="4" cols="50" placeholder="Enter your message"></input> <button type="button" id="send-button">send</button>
 </form>
 <script src="ntfy.js" defer></script>
 
