@@ -62,7 +62,7 @@ By using the services, you agree that you will not use them for exploitation of 
 ### Donations
 | litecoin      | monero      |
 | ------------- | ------------- |
-| ![/litecoin.png](litecoin) | ![/monero.png](monero) |
+| ![litecoin](/litecoin.png) | ![monero](/monero.png) |
 | ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf | 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU |
 
 I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
