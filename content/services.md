@@ -9,7 +9,15 @@ These are services I host on subdomains of this site, through VPSes, and simple 
 
 I had some misadventures beforehand, before I realized a VPS with Caddy and Docker would be easier. (and easier it was!)
 
-Donations: In lieu of giving me money directly, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
+### Donations
+| litecoin      | monero      |
+| ------------- | ------------- |
+| !(litecoin)[/ltc.png] | !(monero)[/monero.png] |
+| ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf | 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU |
+
+I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
+
+If you don't got crypto, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
 
 ### Usage Policy
 
