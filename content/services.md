@@ -60,11 +60,9 @@ By using the services, you agree that you will not use them for exploitation of 
 * Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 12GB of RAM, running on 4 threads and 80GB of space, costing $13.00 USD a month.
 
 ### Donations
-| litecoin      | monero      |
-| ------------- | ------------- |
-| ![litecoin](/litecoin.png) | ![monero](/monero.png) |
-| ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf | 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU |
-
 I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
+
+* litecoin: ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf
+* monero: 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU
 
 If you don't got crypto, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
