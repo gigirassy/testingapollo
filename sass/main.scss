@@ -33,7 +33,7 @@ html {
 }
 
 .blitzface {
-  background-image:url('/hoticon.png');
+  background-image: #{$bgface};
 }
 
 @media all and (min-width:640px) {
