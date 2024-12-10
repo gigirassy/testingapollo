@@ -32,6 +32,10 @@ html {
   word-wrap: break-word;
 }
 
+.blitzface {
+  background-image:url('/hoticon.png');
+}
+
 @media all and (min-width:640px) {
   html {
     font-size: 16.5px;
