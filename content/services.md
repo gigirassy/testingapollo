@@ -47,16 +47,13 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
 *   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
-
-### Not-Publicly Linked Services
-
-*   Invidious: This is hosted on a different VPS than what I normally use, one that hasn't been blocked yet. To prevent people from abusing it to the point where the VPS is blocked, you'll have to email me for the link. nune\[.at.\]imap\[.dot.\]fi . Doesn't have to be formal, you can just put something like "Can I has Invidious" in the subject with a cute cat pic attached and I'll send it to you. Alias will not be replied to. I won't care about what you watch. If you don't want to contact me, use LightTube instead.
+*   [Rat Ain't Tieba](https://rat.blitzw.in): Chinese language frontend to Baidu Tieba that loads way faster, making it useful for when you'd like to browse it with translation.
 
 ### Specs:
 
 * SearXNG uses a Hetzner VPS located in Finland that costs $3.29 euro a month. Specs are: 2VCPU, 4GB RAM, 40GB space.
 * IT Tools is hosted on Vercel at no cost to me.
-* My file server, Lighttube, Binternet, Cobalt, and Etherpad instances run on a Webdock KVM VPS with minimal specs.
+* My file server, Binternet, Cobalt, RAT, and Etherpad instances run on a Webdock KVM VPS with minimal specs.
 * Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 12GB of RAM, running on 4 threads and 80GB of space, costing $13.00 USD a month.
 
 ### Donations
