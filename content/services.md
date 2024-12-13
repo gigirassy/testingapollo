@@ -62,4 +62,8 @@ I have conflicted opinions about crypto myself, but it's available as an option 
 * litecoin: ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf
 * monero: 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU
 
+Anonpay for any currency:
+
+<iframe src="https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&donation=True&simple_mode=True&ticker_from=xmr&network_from=Mainnet&bgcolor=&address=83r6YnuwnsVXNvHmurMFYf3Urufw54rKic1Ka5ysgSv5Wvp1UrCi5UnB2vfQnxmmTp1W2JYqk452QAgqV83SpqK8D7xy7gd" width="310" height="350" style="border:0" scrolling="no"></iframe> 
+
 If you don't got crypto, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
