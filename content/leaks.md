@@ -9,7 +9,7 @@ After certain reasons, I've stepped up as the new maintainer. Credit to the orig
 
 Only info publicly documented ie. on TFW2005 will be added, not from confidential Discord servers.
 
-DM me on TFW2005 for additions with public evidence here, or for typos: https://www.tfw2005.com/boards/conversations/add?to=nune
+DM me on TFW2005 for additions with public evidence here, or for typos: [Start a conversation](https://www.tfw2005.com/boards/conversations/add?to=nune)
 
 ------------
 
