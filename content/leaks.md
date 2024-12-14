@@ -148,7 +148,7 @@ Exclusives:
 
 </details>
 
-## Deconfirmed/canceld
+## Deconfirmed/canceled
 ### De-confirmed/False Rumors:
         Glyph & Tap Out 2-pack
         Movie Masterpiece Series Barricade reissue
