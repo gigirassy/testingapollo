@@ -56,7 +56,7 @@ Table of Contents:
             Deluxe 86 Jazz✅ (package refresh)
             Deluxe 86 Scavenger✅
             Deluxe WFC Autobot Soldier
-            Deluxe TF4 Widow Maker
+            Deluxe TF4 Widow Maker (KSI Widow on the box for copyright reasons)
             Voyager WFC Ironhide✅
             Voyager TFONE Sentinel Prime✅
             Voyager WFC Thundercracker
