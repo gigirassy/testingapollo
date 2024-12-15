@@ -49,6 +49,7 @@ Table of Contents:
             Titan Star Convoy✅
 #### Studio Series:
 ##### 2025:
+*Listings are no longer numbered.*
             Deluxe 86 Perceptor (package refresh)
             Deluxe TFONE Starscream
             Deluxe TF3 Que✅
@@ -150,33 +151,6 @@ Exclusives:
 
 ## Deconfirmed/canceled
 ### De-confirmed/False Rumors:
-        Glyph & Tap Out 2-pack
-        Movie Masterpiece Series Barricade reissue
-        Movie Masterpiece '77 Camaro Bumblebee
-        Prime Universe Breakdown (purposefully bad information, was said to be part of Legacy Menasor)
-        Wreck N' Rule Collection Deluxe Class Topspin
-        Buzzworthy Bumblebee Animated Bumblebee (rumored years before Legacy: United)
         Titan Class Energon Universe Optimus Prime (deconfirmed by Star Optimus Prime listing)
 ### Canceled Releases:
-        Velocitron Speedia 500 Collection Voyager Hot Rod (revealed, but no longer slated for release)
-        Toxitron Collection G2 Shadowstrip package refresh (replaced with G2 Universe Laser Cycle)
-        Legacy Deluxe Class 'ROBO WLD RDR' (listed, but canceled)
-        Kingdom Deluxe Class Cheetor package refresh (originally listed for Wave 4 of Legacy)
-        Earthrise/Kingdom Deluxe Class Wheeljack package refresh (originally listed for Wave 4 of Legacy)
-        Kingdom Fossilizer 'Cat Bone' (only made it to mock-up stage of development)
-        Collaborative Universal Monsters x Transformers 4-pack (was said to be in black and white deco)
-        Buzzworthy Bumblebee Deluxe Class 'Bumblebee 2' (listed, but canceled)
-        Buzzworthy Bumblebee Studio Series 86 Deluxe Hound (single release canceled, moved to Target exclusive 5-pack)
-        Buzzworthy Bumblebee Studio Series Deluxe Hatchet (original release canceled, moved to 2025 Studio Series releases)
-        Collaborative Amazon Optimus Prime (listed, but canceled)
-        Vintage Beast Wars Blackarachnia & Tarantulas (original molds could not be repaired, replaced with Iguanus & Retrax)
-        Generations Comic Edition Soundwave (purple with open mouth, replaced with Flame/Xaaron 2-pack)
-        Transformers R.E.D.:
-            Nemesis Prime (G1) (canceled, but factory samples do exist)
-            Cliffjumper (G1)
-            Skywarp (G1) (canceled, but factory samples do exist)
-            Soundblaster (G1)
-            Grimlock (G1) (canceled, but factory samples do exist)
-            Dark Energon Megatron (Prime)
-            Starscream (Prime) (canceled, but a prototype does exist)
-
+        Generations Comic Edition Soundwave (purple with open mouth, replaced with Flame/Xaaron 2-pack)\
