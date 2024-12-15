@@ -50,6 +50,7 @@ Table of Contents:
 #### Studio Series:
 ##### 2025:
 *Listings are no longer numbered.*
+
             Deluxe 86 Perceptor (package refresh)
             Deluxe TFONE Starscream
             Deluxe TF3 Que✅
