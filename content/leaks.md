@@ -22,8 +22,7 @@ Table of Contents:
 
 
 ## Confirmed:
-### Legacy/Generations:
-#### Age of the Primes/2025:
+### Age of the Primes/2025:
             Deluxe Solus Prime✅
             Deluxe Air Raid✅
             Deluxe Fireflight✅
@@ -47,8 +46,8 @@ Table of Contents:
             Leader Onyx Prime
             Commander Silverbolt✅
             Titan Star Convoy✅
-#### Studio Series:
-##### 2025:
+### Studio Series:
+#### 2025:
 *Listings are no longer numbered.*
 
             Deluxe 86 Perceptor (package refresh)
