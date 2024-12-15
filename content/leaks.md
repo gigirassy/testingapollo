@@ -114,8 +114,8 @@ Table of Contents:
                 Tra Collab HW 4
                 Tra Collab FTW
 ##### Miscellaneous:
-            Tra Gen Legacy EX Voy Armada Super Starscream*
-            Tra Gen Studio Series EX Voy TF7 Nemesis Prime*
+            Tra Gen Legacy EX Voy Armada Super Starscream✅
+            Tra Gen Studio Series EX Voy TF7 Nemesis Prime✅
 
 __________________________________________________________________
 ## Unconfirmed/Rumored:
