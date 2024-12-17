@@ -19,16 +19,19 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 </div></details>
 <details><summary>Tech specs</summary>
+
 ### Main PC: Dell Inspiron 3650 [pic](/dellpc.png).
 * Intel© Core™ i5-6400 CPU @ 2.70GHz × 4
 * 8GB RAM, 1TB~ HDD
 * OS is Linux Mint 22 Cinnamon
 * Monitor is Acer AL1916W, black
+
 ### Phone: ZTE Avid 4 [pic](zte.png)
 * Hand-me-down
 * Degoogled as much as possible, demetro'd, and deFacebooked via ADB.
 * 2GB RAM
 * Getting a data sim from JMP.Chat when that's ready
+
 ### Emergency Laptop: Dell Latitude 5400 (/delllaptop.png)
 * Intel© Core™ i5-8365 CPU @ 1.60GHz 
 * OS is Windows 10
