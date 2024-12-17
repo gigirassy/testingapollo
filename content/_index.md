@@ -3,7 +3,7 @@ template = "homepage.html"
 +++
 
 
-<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender. ![autigender flag icon](/Autigendersmall.png)
+<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender![autigender flag icon](/Autigendersmall.png), 100% acearo, and most likely a Cybertronian therian. Being human is weird. If you got a problem with my identity, go yell at a CEO instead, it's a more valuable use of your time.
 
 In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005. [I also occasionally leak those toys when I'm lucky](https://www.tfw2005.com/boards/threads/transformers-collaborative-naruto-shippuden-kurama-gamakichi-anime-toys-tra-gen-project-tails.1268943/).
 
@@ -18,6 +18,23 @@ I am simultaneously the most legally insane and sane person on the internet at o
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </div></details>
+<details><summary>Tech specs</summary>
+### Main PC: Dell Inspiron 3650 [pic](/dellpc.png).
+* Intel© Core™ i5-6400 CPU @ 2.70GHz × 4
+* 8GB RAM, 1TB~ HDD
+* OS is Linux Mint 22 Cinnamon
+* Monitor is Acer AL1916W, black
+### Phone: ZTE Avid 4 [pic](zte.png)
+* Hand-me-down
+* Degoogled as much as possible, demetro'd, and deFacebooked via ADB.
+* 2GB RAM
+* Getting a data sim from JMP.Chat when that's ready
+### Emergency Laptop: Dell Latitude 5400 (/delllaptop.png)
+* Intel© Core™ i5-8365 CPU @ 1.60GHz 
+* OS is Windows 10
+* Broken Q and W keys
+* 8GB RAM, 6 additional GB of virtual memory
+</details>
 <details><summary>Woah, webrings!</summary>
     <p><span><a href="https://webring.dinhe.net/prev/https://www.blitzw.in">prev</a> | <a href="https://webring.dinhe.net/">retronaut</a> | <a href="https://webring.dinhe.net/next/https://www.blitzw.in">next</a></span></p>
     <p><span><a href="https://webring.bucketfish.me/redirect.html?to=prev&name=blitzw.in">prev</a> | <a href="https://webring.bucketfish.me">bucketfish</a> | <a href="https://webring.bucketfish.me/redirect.html?to=next&name=blitzw.in">next</a></span></p>
@@ -25,4 +42,5 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 ## Contact
 
-The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, you can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt). **note: my key recently changed.** I also offer XMPP: username is nune@ari.lt .
+The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, I also offer XMPP (which can basically be described as "email if it was Discord"): [handle is nune@ari.lt](xmpp:nune@ari.lt) . It's the most convenient way to contact, as I always got it
+You can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt) unless you elect to not do so on your end. **note: my key recently changed.** 
