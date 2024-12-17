@@ -45,5 +45,6 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 ## Contact
 
-The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, I also offer XMPP (which can basically be described as "email if it was Discord"): [handle is nune@ari.lt](xmpp:nune@ari.lt) . It's the most convenient way to contact, as I always got it
+The most reliable way to contact me is through Discord or Instagram DMs, both of which are located under the @blitzw.in usernames. If you don't use these sites due to privacy reasons, I also offer XMPP (which can basically be described as "email if it was Discord"): [handle is nune@ari.lt](xmpp:nune@ari.lt) . It's the most convenient way to contact, as I always got the client up on my main PC.
+
 You can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi. All emails with that address are signed with [PGP](/PGP.txt) unless you elect to not do so on your end. **note: my key recently changed.** 
