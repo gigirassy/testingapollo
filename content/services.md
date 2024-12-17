@@ -31,12 +31,13 @@ By using the services, you agree that you will not use them for exploitation of 
 
 
 #### Utility!
-
+*   [Send](https://send.blitzw.in): Share files with handy links!
 *   [Stirling PDF](https://pdf.blitzw.in): Helpful tools for your PDFs!
 *   [IT Tools](https://tools.blitzw.in): Loads of helpful tools for developers, like decoding and encoding stuff, generating QR codes, and more.
 *   [Privatebin](https://bin.blitzw.in): A private, encrypted Pastebin! Use it to share your love notes, code, and more.
 *   [Cobalt](https://co.blitzw.in): Download files from many social media sites! Uses Cobalt 7 instead of 10. I have a petty grudge towards the developer for making it so in versions 10 amd up, only the API and not the UI is easily self-hostable. Why? They want you to use it at a centralized UI that uses a product by Cloudflare, which basically defeats the point of open-source privacy software. Nevertheless, I find version 7 helpful. **Under basic auth**. Username is blitzwing and password is cloudflarehater3000.
 *   [Etherpad](https://eth.blitzw.in): A document editing thingy! **Keep in mind that this is not end-to-end encrypted.** Use Privatebin to share confidential info instead.
+*   [Hat](https://hat.blitzw.in): Allows you to encrypt files and decrypt them!
 
 #### Frontends!
 
@@ -52,7 +53,7 @@ By using the services, you agree that you will not use them for exploitation of 
 ### Specs:
 
 * SearXNG uses a Hetzner VPS located in Finland that costs $3.29 euro a month. Specs are: 2VCPU, 4GB RAM, 40GB space.
-* IT Tools is hosted on Vercel at no cost to me.
+* IT Tools and hat.sh are hosted on Vercel at no cost to me.
 * My file server, Binternet, Cobalt, RAT, and Etherpad instances run on a Webdock KVM VPS with minimal specs.
 * Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 12GB of RAM, running on 4 threads and 80GB of space, costing $13.00 USD a month.
 
