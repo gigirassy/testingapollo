@@ -26,7 +26,7 @@ I am simultaneously the most legally insane and sane person on the internet at o
 * OS is Linux Mint 22 Cinnamon
 * Monitor is Acer AL1916W, black
 
-### Phone: ZTE Avid 4
+### Phone: ZTE Avid 4 [pic](/ztephone.png)
 * Hand-me-down
 * Degoogled as much as possible, demetro'd, and deFacebooked via ADB.
 * 2GB RAM
