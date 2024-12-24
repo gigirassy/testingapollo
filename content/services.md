@@ -19,6 +19,10 @@ By using the services, you agree that you will not use them for exploitation of 
 
 ### Services
 
+### Sharing!
+
+*   [Send](https://send.blitzw.in): Send files securely!
+
 ### Archiving!
 
 *   [ArchiveBox](https://ab.blitzw.in): A personal instance for me to archive Transformers stuff.
