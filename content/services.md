@@ -56,7 +56,6 @@ By using the services, you agree that you will not use them for exploitation of 
 
 ### Specs:
 
-* SearXNG uses a Hetzner VPS located in Finland that costs $3.29 euro a month. Specs are: 2VCPU, 4GB RAM, 40GB space.
 * IT Tools and hat.sh are hosted on Vercel at no cost to me.
 * My file server, Binternet, Cobalt, RAT, and Etherpad instances run on a Webdock KVM VPS with minimal specs.
 * Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 12GB of RAM, running on 4 threads and 80GB of space, costing $13.00 USD a month.
