@@ -54,6 +54,8 @@ By using the services, you agree that you will not use them for exploitation of 
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
 *   [Rat Ain't Tieba](https://rat.blitzw.in): Chinese language frontend to Baidu Tieba that loads way faster, making it useful for when you'd like to browse it with translation.
 
+I also run Snowflake proxies on both of my servers, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
+
 ### Specs:
 
 * IT Tools and hat.sh are hosted on Vercel at no cost to me.
