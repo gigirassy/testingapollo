@@ -60,10 +60,17 @@ For anything under frontends, takedown requests will be ignored as I have no con
 I also run Snowflake proxies on both of my servers, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
 
 ### Specs:
-
-* IT Tools and hat.sh are hosted on Vercel at no cost to me.
-* My file server, Binternet, Cobalt, RAT, and Etherpad instances run on a Webdock KVM VPS with minimal specs.
-* Anything else uses a WebDock KVM Virtual Machine-based VPS, located in Denmark, with about 12GB of RAM, running on 4 threads and 80GB of space, costing $13.00 USD a month.
+Both Blurr and Cliffjumper are WebDock KVM VM-based VPS, located in Denmark and running Ubuntu Noble 24.04 with daily backups. They're named after TFA characters.
+#### Blurr
+* About 12GB RAM
+* 6 threads
+* 80GB space
+#### Cliffjumper
+* 4GB RAM
+* 4 threads
+* 30GB space
+#### Other
+* Hat.sh and IT Tools are hosted on Vercel at no cost to me.
 
 ### Donations
 I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
