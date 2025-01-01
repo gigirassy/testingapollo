@@ -25,7 +25,7 @@ That autism influences how I see my nonbinary gender. It's a pretty recent label
 
 #### Other than your pronouns, what can I call you?
 
-Solely call me Nune, and avoid explictly gendered terms aside from stuff like "guy". Also, don't refer to me as human, I have species dysphoria. The term "person" is okay! Don't know what the heck I feel like yet. But honestly, the details are another story for close friends and probably not your business.
+Solely call me Nune, and avoid explictly gendered terms aside from stuff like "guy". Also, don't refer to me as human, I'm pretty confident I'm a Cybertronian therian ([wink](/theriotype)). The term "person" is okay! Don't know what the heck I feel like yet. But honestly, the details are another story for close friends and probably not your business.
 
 #### What is your site built on?
 
