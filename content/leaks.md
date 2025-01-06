@@ -98,6 +98,7 @@ Table of Contents:
                 Wreckers VS Mayhem Capsule:
                     Tra Gen Smile Deluxe Spinister VS Twintwist
                     Tra Gen Smile Deluxe Ironfist VS Carnivac
+                    TRA GEN Smile 2 Pack 3
 #### Fan Channel:
 #####            Generations Selects:
                 Tra Gen Selects G2 Dinobots (rumored to be 2-pack of Leader class Snarl and Slug)
