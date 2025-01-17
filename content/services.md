@@ -53,7 +53,6 @@ For anything under frontends, takedown requests will be ignored as I have no con
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
 *   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
-*   [Rat Ain't Tieba](https://rat.blitzw.in): Chinese language frontend to Baidu Tieba that loads way faster, making it useful for when you'd like to browse it with translation.
 
 I also run Snowflake proxies on both of my servers, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
 
