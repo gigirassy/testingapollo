@@ -57,15 +57,11 @@ For anything under frontends, takedown requests will be ignored as I have no con
 I also run Snowflake proxies on both of my servers, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
 
 ### Specs:
-Both Blurr and Cliffjumper are WebDock KVM VM-based VPS, located in Denmark and running Ubuntu Noble 24.04 with daily backups. They're named after TFA characters.
+Blurr is a WebDock KVM VPS, located in Denmark and running Ubuntu Noble 24.04 with daily backups. He's named after a TFA character. Cliffjumper, my former small VPS, has been retired. I will be getting a small VPS from a different provider to save on costs.
 #### Blurr
 * About 12GB RAM
 * 6 threads
 * 80GB space
-#### Cliffjumper
-* 4GB RAM
-* 4 threads
-* 30GB space
 #### Other
 * Hat.sh and IT Tools are hosted on Vercel at no cost to me.
 
