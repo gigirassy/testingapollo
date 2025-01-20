@@ -54,7 +54,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
 *   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
 
-I also run Snowflake proxies on both of my servers, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
+I also run a Snowflake proxy, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
 
 ### Specs:
 Blurr is a WebDock KVM VPS, located in Denmark and running Ubuntu Noble 24.04 with daily backups. He's named after a TFA character. Cliffjumper, my former small VPS, has been retired. I will be getting a small VPS from a different provider to save on costs.
@@ -65,6 +65,20 @@ Blurr is a WebDock KVM VPS, located in Denmark and running Ubuntu Noble 24.04 wi
 #### Other
 * Hat.sh and IT Tools are hosted on Vercel at no cost to me.
 
+#### Stuff I won't host
+* Any non-E2E file host such as Uguu, Chibisafe: Legal reasons. If I do, it'll be only open to friends.
+
+* PixivFE, SkunkyArt: Frontends for poorly-moderated sites that host material that is a legal risk.
+
+* Online, publicly accessible whole-web proxies like Ultraviolet: Legal risk.
+
+* Paywall bypassers: Legal risk.
+
+* Public Invidious/etc instances: No longer practical to host on a VPS, at least at the moment.
+
+* Nitter: No longer practical to host on a VPS.
+
+* 4Get: I'm the exact type of person the creator would hate.
 ### Donations
 I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
 
