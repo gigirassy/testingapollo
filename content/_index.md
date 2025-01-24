@@ -34,9 +34,9 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 ### Emergency Laptop: Dell Latitude 5400 [pic](/delllaptop.png)
 * Intel© Core™ i5-8365 CPU @ 1.60GHz 
-* OS is Windows 10
+* OS is Manjaro Linux with KDE Plasma environment (formerly Windows 10!)
 * Broken Q and W keys
-* 8GB RAM, 6 additional GB of virtual memory
+* 8GB RAM
 </details>
 <details><summary>Woah, webrings!</summary>
     <p><span><a href="https://webring.dinhe.net/prev/https://www.blitzw.in">prev</a> | <a href="https://webring.dinhe.net/">retronaut</a> | <a href="https://webring.dinhe.net/next/https://www.blitzw.in">next</a></span></p>
