@@ -67,6 +67,11 @@ Table of Contents:
             Leader 86 Megatron
             Commander 86 Hook & Long Haul✅
             A Level Deluxe DEV Optimus Prime✅
+#### 2026:
+            TRA GEN STUDIO SERIES LDR TF5 NEM PRIME
+            TRA GEN STUDIO SERIES LDR 86 ASTROTRAIN
+            TRA GEN STUDIO SERIES LDR 86 SNARL (PR)
+            TRA GEN STUDIO SERIES LDR 86 SOUNDWAVE
 ### Exclusives:
 #### Hasbro Pulse:
             2025:
