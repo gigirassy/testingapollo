@@ -84,6 +84,7 @@ I have conflicted opinions about crypto myself, but it's available as an option 
 
 * litecoin: ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf
 * monero: 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU
+* nano: nano_1a5uenxmuzxbohq3kx87resk668r4mgxraceg1tn77iuk7axjjrptsu11stx
 
 Anonpay for any currency:
 
