@@ -8,11 +8,11 @@ For transparency purposes regarding my commitment to collective liberation, I've
 
 I commit to not donate to orgs or individuals that have enough money, and I prioritize non-501(c) organizations. When 501(c) organizations are donated to, they have budgets of less than 30k USD per year to maximize impact.
 
-Name | Info | Monthly Donation Amount
------- | ------ | ------
-Noname Book Club   | radical black organization that works to build information to aid in collective liberation, while sending books to prisoners | $1
-Talia Jane (individual)   | indie anarchist journalist covering current events on the ground | $2
-Indigenous Women Rising | indigenous abortion fund/reproductive health organization | $1
+Name | Info | Monthly Donation Amount | Link
+------ | ------ | ------ | ------
+Noname Book Club   | radical black organization that works to build information to aid in collective liberation, while sending books to prisoners | $1 | [link](https://nonamebooks.com/)
+Talia Jane (individual)   | indie anarchist journalist covering current events on the ground | $2 | [link](https://xcancel.com/taliaotg)
+Indigenous Women Rising | indigenous abortion fund/reproductive health organization | $1 | [link](https://www.iwrising.org/)
 
 Other donations
 
