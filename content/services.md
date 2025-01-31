@@ -8,17 +8,14 @@ Blitzwing Services
 These are services I host on subdomains of this site, through VPSes, and simple pages.
 
 I had some misadventures beforehand, before I realized a VPS with Caddy and Docker would be easier. (and easier it was!)
-
-### Usage Policy
-
-By using the services, you agree that you will not use them for exploitation of others, DDoS/memory flooding, data scraping (host your own instead!), purposes related to harmful structures, harassment, immoral content, or commercial activities.
-
-### Privacy
+<details><summary>Usage Policy</summary>
+By using the services, you agree that you will not use them for exploitation of others, DDoS/memory flooding, data scraping (host your own instead!), purposes related to harmful structures, harassment, immoral content, or commercial activities.</details>
+<details><summary>Privacy</summary>
 By design, I do not log your usage of the services at all. The only things I log related to them are anonymous analytics of visits to this page via Umami, which can not personally identify you and are used to benefit the services via checking if they're being served fairly.
 
 For encrypted services, I don't even know what's in the paste/upload/etc. I can only respond to a takedown if you have the full URL.
 
-For anything under frontends, takedown requests will be ignored as I have no control on what's on them. They're proxies.
+For anything under frontends, takedown requests will be ignored as I have no control on what's on them. They're proxies.</details>
 
 #### _Squawk!_
 
@@ -57,11 +54,18 @@ For anything under frontends, takedown requests will be ignored as I have no con
 I also run a Snowflake proxy, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
 
 ### Specs:
-Blurr is a WebDock KVM VPS, located in Denmark and running Ubuntu Noble 24.04 with daily backups. He's named after a TFA character. Cliffjumper, my former small VPS, has been retired. I will be getting a small VPS from a different provider to save on costs.
+Both are named after TFA characters. Cliffjumper, my former small VPS, has been retired.
 #### Blurr
 * About 12GB RAM
 * 6 threads
 * 80GB space
+* Denmark-located
+* WebDock KVM VPS running Ubuntu Noble 24.04
+#### Wasp
+* 6GB RAM
+* 3 cores
+* 50 GB space
+* South Africa-located
 #### Other
 * Hat.sh and IT Tools are hosted on Vercel at no cost to me.
 
