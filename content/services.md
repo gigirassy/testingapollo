@@ -86,13 +86,13 @@ Both are named after TFA characters. Cliffjumper, my former small VPS, has been 
 ### Donations
 I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
 <details><summary>Addresses</summary>
-* litecoin: ltc1qusqdxatldzkwe9dn2cr255ffrcuxz85wh4kcdf
+* litecoin: ltc1q5hw0kkddgjrwlpsj77k8k2m95f8qugyds73yyg
 * monero: 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU
 * nano: nano_1a5uenxmuzxbohq3kx87resk668r4mgxraceg1tn77iuk7axjjrptsu11stx
 * stellar public key: GBGJE4TXXFUSGJNECG4SI7QMYBXXMCGQ4G7DOLPSASPK2TJ7KJT27QLY
 </details>
 Anonpay for any currency:
 
-<iframe src="https://trocador.app/anonpay/?ticker_to=ltc&network_to=Mainnet&address=ltc1q07qqhfnkn5fnfp48mqeg3un0rjt0wkvpknsdje&donation=True&simple_mode=True&name=nune&email=nune@imap.fi&ticker_from=xmr&network_from=Mainnet&bgcolor=" width="310" height="350" style="border:0" scrolling="no"></iframe> 
+<iframe src="https://trocador.app/anonpay/?ticker_to=ltc&network_to=Mainnet&address=ltc1q5hw0kkddgjrwlpsj77k8k2m95f8qugyds73yyg&donation=True&simple_mode=True&name=nune&email=nune@imap.fi&ticker_from=xmr&network_from=Mainnet&bgcolor=" width="310" height="350" style="border:0" scrolling="no"></iframe> 
 
 If you don't got crypto, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
