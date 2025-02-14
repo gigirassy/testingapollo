@@ -87,8 +87,11 @@ Both are named after TFA characters. Cliffjumper, my former small VPS, has been 
 I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
 <details><summary>Addresses</summary>
 * litecoin: ltc1q5hw0kkddgjrwlpsj77k8k2m95f8qugyds73yyg
+
 * monero: 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU
+
 * nano: nano_1a5uenxmuzxbohq3kx87resk668r4mgxraceg1tn77iuk7axjjrptsu11stx
+
 * stellar public key: GBGJE4TXXFUSGJNECG4SI7QMYBXXMCGQ4G7DOLPSASPK2TJ7KJT27QLY
 </details>
 Anonpay for any currency:
