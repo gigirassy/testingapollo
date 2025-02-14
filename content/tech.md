@@ -25,9 +25,9 @@ This is a list of current devices I own.
 * Intel© Core™ i5-8365 CPU @ 1.60GHz x 8
 * OS is Manjaro Linux with KDE Plasma environment (formerly Windows 10!)
 * Broken Q, CTRL, and W keys
-* 8GB RAM
+* 8GB RAM, 256GB space
 
 Devices I'd like to own are below:
 * LineageOS phone with at least 8GB RAM
 * Any old laptop with Windows XP/Vista on it, for some fun debugging; seeing what I can do with it!
-* A Lenevo Thinkpad with decent specs
+* A Lenovo Thinkpad with decent specs
