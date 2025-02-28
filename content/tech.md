@@ -12,6 +12,8 @@ This is a list of current devices I own.
 * 8GB RAM, 1TB~ HDD
 * OS is Linux Mint 22 Cinnamon
 * Monitor is Acer AL1916W, black (that's right, it's a 16-year-old monitor!)
+#### VMs
+* Void Linux from scratch, about 18 GB storage space, one core and 2 GB of RAM. It has very minimal software added by me. Great coding exercise! ([pic](/dellpcvoid.png))
 
 ### Phone: ZTE Avid 4 [pic](/ztephone.png)
 > This used to be my Grandma's. Then I had to factory reset it so it could be handed down to my sister. It was so, so full of viruses before. Then, my little sister got it and barely used it. Then, she passed it to me. The phone is slow, crashes upon downloading items from Firefox, and is overall not the best time. Not only that, but I tried to uninstall Google Play Services and replace that with MicroG; but whoever set up this phone has it locked in. I will be getting myself a phone that's actually good, and which preferably has LineageOS preinstalled.
