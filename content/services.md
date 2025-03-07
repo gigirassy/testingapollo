@@ -8,7 +8,7 @@ Blitzwing Services
 These are services I host on subdomains of this site, through VPSes, and simple pages.
 
 I had some misadventures beforehand, before I realized a VPS with Caddy and Docker would be easier. (and easier it was!)
-<details><summary>Usage Policy</summary>
+#### Usage Policy
 By using the services, you agree that you will not use them for:
 
 * exploitation of others, such as malware
@@ -19,7 +19,7 @@ By using the services, you agree that you will not use them for:
 
 * purposes related to harmful structures, such as policing
 
-* immoral content; this includes CSAM (including of fictional characters), conspiracy theories, hate ideologies, and other nasty content.</details>
+* immoral content; this includes CSAM (including of fictional characters), conspiracy theories, hate ideologies, and other nasty content.
 
 <details><summary>Privacy</summary>
 By design, I do not log your usage of the services at all. The only things I log related to them are anonymous analytics of visits to this page via Umami, which can not personally identify you and are used to benefit the services via checking if they're being served fairly.
