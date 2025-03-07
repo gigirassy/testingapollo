@@ -29,7 +29,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 #### _Squawk!_
 
-<span style="float:right;">![squawktalk](/squawktalk.png)</span> Squawktalk from Transformers, the [honorary canary](https://www.eff.org/deeplinks/2014/04/warrant-canary-faq), would like to inform you that my services have not been served a warrant, subpoena, or forced to do any modifications by law enforcement. Pay attention; if Squawktalk leaves, run.
+<span style="float:right;">![squawktalk](/squawktalk.png)</span> Squawktalk from Transformers, the [honorary canary](https://www.eff.org/deeplinks/2014/04/warrant-canary-faq), would like to inform you that my services have not been served a warrant, subpoena, or forced to do any modifications by law enforcement. Pay attention; if Squawktalk leaves, run. This canary is valid as of the most recent commit to this repository, which is <span id="commit-date"></span>.
 
 ### Services
 
@@ -108,3 +108,5 @@ Anonpay for any currency:
 <iframe src="https://trocador.app/anonpay/?ticker_to=ltc&network_to=Mainnet&address=ltc1q5hw0kkddgjrwlpsj77k8k2m95f8qugyds73yyg&donation=True&simple_mode=True&name=nune&email=nune@imap.fi&ticker_from=xmr&network_from=Mainnet&bgcolor=" width="310" height="350" style="border:0" scrolling="no"></iframe> 
 
 If you don't got crypto, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
+
+<script src="/js/canarydate.js" defer>
