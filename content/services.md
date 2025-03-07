@@ -20,6 +20,7 @@ By using the services, you agree that you will not use them for:
 * purposes related to harmful structures, such as policing
 
 * immoral content; this includes CSAM (including of fictional characters), conspiracy theories, hate ideologies, and other nasty content.</details>
+
 <details><summary>Privacy</summary>
 By design, I do not log your usage of the services at all. The only things I log related to them are anonymous analytics of visits to this page via Umami, which can not personally identify you and are used to benefit the services via checking if they're being served fairly.
 
