@@ -9,7 +9,17 @@ These are services I host on subdomains of this site, through VPSes, and simple 
 
 I had some misadventures beforehand, before I realized a VPS with Caddy and Docker would be easier. (and easier it was!)
 <details><summary>Usage Policy</summary>
-By using the services, you agree that you will not use them for exploitation of others, DDoS/memory flooding, data scraping (host your own instead!), purposes related to harmful structures, harassment, immoral content, or commercial activities.</details>
+By using the services, you agree that you will not use them for:
+
+* exploitation of others, such as malware
+
+* DDoS/memory flooding/unauthorized uptime checks
+
+* data scraping or commercial activities (host your own instead!)
+
+* purposes related to harmful structures, such as policing
+
+* immoral content; this includes CSAM (including of fictional characters), conspiracy theories, hate ideologies, and other nasty content.</details>
 <details><summary>Privacy</summary>
 By design, I do not log your usage of the services at all. The only things I log related to them are anonymous analytics of visits to this page via Umami, which can not personally identify you and are used to benefit the services via checking if they're being served fairly.
 
@@ -45,6 +55,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 *   [Mozhi](https://moz.blitzw.in): Another translation frontend that doesn't track you! Translate from and to many languages here.
 *   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
+*   [Invidious](https://tube.blitzw.in): Watch Youtube without tracking!
 *   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
 *   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. **Under basic auth due to data scraping**. Username is blitzwing and password is redlib.
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
@@ -77,8 +88,6 @@ Both are named after TFA characters. Cliffjumper, my former small VPS, has been 
 * Online, publicly accessible whole-web proxies like Ultraviolet: Legal risk.
 
 * Paywall bypassers: Legal risk.
-
-* Public Invidious/etc instances: No longer practical to host on a VPS, at least at the moment.
 
 * Nitter: No longer practical to host on a VPS.
 
