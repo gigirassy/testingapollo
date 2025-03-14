@@ -40,7 +40,6 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 #### Searching!
 
-*   [SearXNG](https://search.blitzw.in/): A self-described "metasearch engine" that gathers results from many different search engines without tracking you.
 *   [LibreY](https://libre.blitzw.in/): Another "metasearch engine" that gathers results from many different search engines without tracking you. Feel free to set either it or SearXNG as your default!
 *   [Whoogle Search](https://wh.blitzw.in): Google frontend. Rate-limited too often.
 
@@ -62,8 +61,9 @@ For anything under frontends, takedown requests will be ignored as I have no con
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
 *   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
+*   [Intelluctual](https://genius.blitzw.in): Browse song lyrics without tracking!
 
-I also run a Snowflake proxy, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
+  I also run a Snowflake proxy, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
 
 ### Specs:
 Both are named after TFA characters. Cliffjumper, my former small VPS, has been retired.
