@@ -20,14 +20,20 @@ This is a list of current devices I own.
 * Hand-me-down
 * Degoogled as much as possible, demetro'd, and deFacebooked via ADB.
 * 2GB RAM
-* Getting a data sim from JMP.Chat when that's ready
 
-### Laptop: Dell Latitude 5400 [pic](/delllaptop.png)
+### Laptop 1: Dell Latitude 5400 [pic](/delllaptop.png)
 > After getting a similar laptop from eBay that failed for some unholy reason after a month, I had got this as the replacement. It works very amazingly, although it pretty much has noob specs. It used to have Windows 10 on it, but after I had abandoned Windows due to my growing disdain for corporations, I installed Manjaro on it. Works like a charm, no regrets.
 * Intel© Core™ i5-8365 CPU @ 1.60GHz x 8
 * OS is Manjaro Linux with KDE Plasma environment (formerly Windows 10!)
 * Broken Q, CTRL, and W keys
 * 8GB RAM, 256GB space
+
+### Laptop 2: Toshiba Satellite A135-S442 [pic](/toshibalaptop.png)
+> I'm amazed this thing is still alive. It's literally older than Transformers Animated. I saw this bad boy on eBay and was able to get it for just 25 bucks shipped. It has lines on the screen, but amazingly all of the keys are intact. It does not have a CD drive anymore.
+* Intel® Core™ Duo Processor T2250
+* OS is AntiX Linux with default IceWM environment. Installed by me!
+* 32-bit
+* 3GB RAM, 2GB swap, and 160 GB space
 
 Devices I'd like to own are below:
 * LineageOS phone with at least 8GB RAM
