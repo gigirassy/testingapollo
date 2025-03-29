@@ -24,6 +24,8 @@ By using the services, you agree that you will not use them for:
 <details><summary>Privacy</summary>
 By design, I do not log your usage of the services at all. The only things I log related to them are anonymous analytics of visits to this page via Umami, which can not personally identify you and are used to benefit the services via checking if they're being served fairly.
 
+Anubis logs your IP, but can not see what pages you actually visit.
+
 For encrypted services, I don't even know what's in the paste/upload/etc. I can only respond to a takedown if you have the full URL.
 
 For anything under frontends, takedown requests will be ignored as I have no control on what's on them. They're proxies.</details>
@@ -34,13 +36,15 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
+Services with a heart emoji have Anubis bot protection! Please see the privacy section for more info.
+
 ### Archiving!
 
 *   [ArchiveBox](https://ab.blitzw.in): A personal instance for me to archive Transformers stuff.
 
 #### Searching!
 
-*   [LibreY](https://libre.blitzw.in/): Another "metasearch engine" that gathers results from many different search engines without tracking you. Feel free to set either it or SearXNG as your default!
+*   [LibreY](https://libre.blitzw.in/) 💜: Another "metasearch engine" that gathers results from many different search engines without tracking you. Feel free to set either it or SearXNG as your default!
 *   [Whoogle Search](https://wh.blitzw.in): Google frontend. Rate-limited too often.
 
 
@@ -54,12 +58,13 @@ For anything under frontends, takedown requests will be ignored as I have no con
 #### Frontends!
 
 *   [Mozhi](https://moz.blitzw.in): Another translation frontend that doesn't track you! Translate from and to many languages here.
-*   [Breezewiki](https://fan.blitzw.in): Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
+*   [LibreTranslate](https://lt.blitzw.in): Translation frontend with an open source model!
+*   [Breezewiki](https://fan.blitzw.in) 💜: Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
 *   [Invidious](https://tube.blitzw.in): Watch Youtube without tracking!
 *   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
-*   [RedLib](https://rl.blitzw.in): Browse Reddit without being tracked! WebDock-hosted. **Under basic auth due to data scraping**. Username is blitzwing and password is redlib.
+*   [RedLib](https://rl.blitzw.in) 💜: Browse Reddit without being tracked!
 *   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
-*   [Binternet](https://pin.blitzw.in): Browse the unhinged world of Pinterest without tracking!
+*   [Binternet](https://pin.blitzw.in) 💜: Browse the unhinged world of Pinterest without tracking!
 *   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
 *   [Intelluctual](https://genius.blitzw.in): Browse song lyrics without tracking!
 
