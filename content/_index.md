@@ -3,11 +3,13 @@ template = "homepage.html"
 +++
 
 
-<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated fanatic who thinks Blitzwing is neat and loves anarchy. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender![autigender flag icon](/Autigendersmall.png), 100% acearo, and most likely a Cybertronian therian. Being human is weird. If you got a problem with my identity, go yell at a CEO instead, it's a more valuable use of your time.
+<span style="float:left;padding:5px;">![blitzwing image](/funnyguy.png)</span> Hello. I am Nune (*nu-neh*). I'm a 19 y/o neurospicy-flavored Transformers Animated Blitzwing fanatic and anarchist. [I use ey/em and lun/luns pronouns](https://blitzw.in/maq/#why-do-you-use-neopronouns-why-don-t-you-just-use-they-them). I'm also Autigender![autigender flag icon](/Autigendersmall.png), 100% acearo, and most likely a Cybertronian therian. Being human is weird. If you got a problem with my identity, go yell at a CEO instead, it's a more valuable use of your time.
 
 In my free time, I take funny pictures of my toys, advocate against lawns, do archival, have unhinged convos with my closest friend, and talk/debate about funny robots on TFW2005. I have taken over in the place of JTPrime17 for revealing a lot of future Transformers listings for the time being.
 
 I am simultaneously the most legally insane and sane person on the internet at once.
+
+If you're in the United States, I recommend doing something on this <a href="https://l.blitzw.in/SomeActions">list of actions other than protesting or voting</a> by Mariame Kaba and sharing with your friends.
 
 **What you're probably here for are my services like my SearXNG and Breezewiki instances! You can see them via the Services portion of the navbar.**
 ## Webrings
@@ -18,6 +20,6 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 ## Contact
 
-A reliable way to contact me is through Discord DMs, located under the @blitzw.in username. If you don't use Discord due to privacy reasons, I also offer XMPP (which can basically be described as "email if it was Discord"): [handle is nune@ari.lt](xmpp:nune@ari.lt) . It's the most convenient way to contact, as I always got the client up on my main PC.
+A reliable way to contact me is through Discord DMs, located under the @blitzw.in username. If you don't use Discord due to privacy reasons, I also offer XMPP (which can basically be described as "email if it was Discord"): [handle is nune@ari.lt](xmpp:nune@ari.lt) . Wait for a response.
 
 You can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi , although you should expect a high response time. All emails with that address are signed with [PGP](/PGP.txt) unless you elect to not do so on your end. **note: my key recently changed.** 
