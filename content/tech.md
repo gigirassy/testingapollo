@@ -7,10 +7,10 @@ path = "tech"
 This is a list of current devices I own.
 
 ### Main PC: Dell Inspiron 3650 [pic](/dellpc.png)
-> Originally, I had bought this to use as a server as a Linux noob. Turns out my ISP has a prohibitive policy on self-hosting, so I use a VPS instead. VPSes are way more reliable, anyways. After a failed Arch install, I left it alone. However, I eventually remembered about this PC one day and decided to change it to my daily driver, installing Linux Mint on it. It's specced out for storage space, useful for [REDACTED BY THE OFFICE OF SENTINEL MAGNUS] and just general stuff.
+> Originally, I had bought this to use as a server as a Linux noob. Turns out my ISP has a prohibitive policy on self-hosting, so I use a VPS instead. VPSes are way more reliable, anyways. After a failed Arch install, I left it alone. However, I eventually remembered about this PC one day and decided to change it to my daily driver, installing ~~Linux Mint~~ Fedora on it. It's specced out for storage space, useful for [REDACTED BY THE OFFICE OF SENTINEL MAGNUS] and just general stuff.
 * Intel© Core™ i5-6400 CPU @ 2.70GHz × 4
-* 8GB RAM, 1TB~ HDD
-* OS is Linux Mint 22 Cinnamon
+* 8GB RAM, 8GB Swap, 1TB~ HDD
+* OS is Fedora XFCE Spin (formerly Linux Mint)
 * Monitor is Acer AL1916W, black (that's right, it's a 16-year-old monitor!)
 #### VMs
 * Void Linux from scratch, about 18 GB storage space, one core and 2 GB of RAM. It has very minimal software added by me. Great coding exercise! ([pic](/dellpcvoid.png))
