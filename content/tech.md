@@ -22,9 +22,9 @@ This is a list of current devices I own.
 * 2GB RAM
 
 ### Laptop 1: Dell Latitude 5400 [pic](/delllaptop.png)
-> After getting a similar laptop from eBay that failed for some unholy reason after a month, I had got this as the replacement. It works very amazingly, although it pretty much has noob specs. It used to have Windows 10 on it, but after I had abandoned Windows due to my growing disdain for corporations, I installed Manjaro on it. Works like a charm, no regrets.
+> After getting a similar laptop from eBay that failed for some unholy reason after a month, I had got this as the replacement. It works very amazingly, although it pretty much has noob specs. It used to have Windows 10 on it, but after I had abandoned Windows due to my growing disdain for corporations, I installed Manjaro and then Fedora on it. Works like a charm, no regrets.
 * Intel© Core™ i5-8365 CPU @ 1.60GHz x 8
-* OS is Manjaro Linux with KDE Plasma environment (formerly Windows 10!)
+* OS is Fedora Linux with MATE environment (formerly Manjaro, and  Windows 10!)
 * Broken Q, CTRL, and W keys
 * 8GB RAM, 256GB space
 
@@ -35,7 +35,9 @@ This is a list of current devices I own.
 * 32-bit
 * 3GB RAM, 2GB swap, and 160 GB space
 
+### Laptop 3: Lenovo Thinkpad x131e (AMD)
+> Bought for 30 bucks from a business, this is a ThinkPad with the soul of a netbook. Having less than 4GB RAM and 2 dinky cores, it's actually not too bad depending on what you're using it for.
+
+
 Devices I'd like to own are below:
 * LineageOS phone with at least 8GB RAM
-* Any old laptop with Windows XP/Vista on it, for some fun debugging; seeing what I can do with it!
-* A Lenovo Thinkpad with decent specs
