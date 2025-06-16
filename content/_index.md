@@ -20,6 +20,4 @@ If you're in the United States, I recommend doing something on this <a href="htt
 
 ## Contact
 
-A reliable way to contact me is through Discord DMs, located under the @blitzw.in username. If you don't use Discord due to privacy reasons, I also offer XMPP (which can basically be described as "email if it was Discord"): [handle is nune@ari.lt](xmpp:nune@ari.lt) . Wait for a response.
-
-You can contact me through a personal email (not my main one) at nune[.at.]imap[.dot.]fi , although you should expect a high response time. All emails with that address are signed with [PGP](/PGP.txt) unless you elect to not do so on your end. **note: my key recently changed.** 
+A reliable way to contact me is through Discord DMs, located under the @blitzw.in username. Friend me first for a vibe check. You can also contact me on TFW2005.
