@@ -40,7 +40,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;text-align:center;color:#eee;">
   <!-- Redlib: icon only, no label -->
   <a href="https://rl.blitzw.in" target="_blank"
-     style="width:200px;height:200px;display:flex;align-items:center;justify-content:center;">
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:reddit" style="font-size:8rem;" inline></iconify-icon>
     <span>Redlib</span>
   </a>    
@@ -48,7 +48,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
   <!-- Privatebin -->
   <a href="https://bin.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <iconify-icon icon="mdi:content-paste-outline" style="font-size:8rem;" inline></iconify-icon>
+    <iconify-icon icon="mdi:pastebin" style="font-size:8rem;" inline></iconify-icon>
     <span>Privatebin</span>
   </a>
 
@@ -93,7 +93,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
     <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem;" inline></iconify-icon>
     <span>Intellectual</span>
   </a>
-</div
+</div>
 
 
 ### Donations
