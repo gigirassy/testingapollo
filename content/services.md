@@ -37,33 +37,42 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
-
-<div style="display:flex; flex-wrap:wrap; gap:0.5rem; justify-content:center;">
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; justify-content:center; align-items:center;">
+  <!-- Reddit: icon only, no text -->
   <a href="https://rl.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:reddit" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:reddit" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
+  <!-- Other services: monochrome flat icons -->
   <a href="https://bin.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:content-paste" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:content-paste-outline" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
   <a href="https://moz.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:translate" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:translate" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
   <a href="https://wikimore.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:wikipedia" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:wikipedia" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
   <a href="https://tube.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:youtube" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:youtube" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
   <a href="https://twitch.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:twitch" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:twitch" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
   <a href="https://pin.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:pinterest" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:pinterest" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
+
   <a href="https://genius.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:lightbulb-outline" style="font-size:6rem; color:currentColor;"></iconify-icon>
+    <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
   </a>
 </div>
+
 ### Donations
 Consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
 
