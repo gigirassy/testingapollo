@@ -2,6 +2,34 @@
 path = "services"
 +++
 
+<script src="https://code.iconify.design/2/2.2.1/iconify.min.js" defer></script>
+<style>.card {
+      width: 200px;
+      height: 200px;
+      border-radius: 16px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      color: #333;
+      background: #fff;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    .card .icon {
+      font-size: 64px;
+      margin-bottom: 12px;
+    }
+    .card .label {
+      font-size: 18px;
+      font-weight: bold;
+      text-align: center;
+    }</style>
 Blitzwing Services
 ------------------
 
@@ -36,83 +64,41 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
-Services with a heart emoji have Anubis bot protection! Please see the privacy section for more info.
+<script defer>
+  const services = [
+    { name: 'Redlib', icon: 'logos:reddit', url: 'https://rl.blitzw.in' },
+    { name: 'Privatebin', icon: 'mdi:paste', url: 'https://bin.blitzw.in' },
+    { name: 'Mozhi', icon: 'mdi:translate', url: 'https://moz.blitzw.in' },
+    { name: 'Wikimore', icon: 'mdi:wikipedia', url: 'https://wikimore.blitzw.in' },
+    { name: 'Invidious', icon: 'mdi:youtube', url: 'https://tube.blitzw.in' },
+    { name: 'SafeTwitch', icon: 'mdi:twitch', url: 'https://twitch.blitzw.in' },
+    { name: 'Binternet', icon: 'mdi:pinterest', url: 'https://pin.blitzw.in' },
+    { name: 'Intellectual', icon: 'mdi:genius', url: 'https://genius.blitzw.in' }
+  ];
 
-### Archiving!
+  const container = document.body;
 
-*   [ArchiveBox](https://ab.blitzw.in): A personal instance for me to archive Transformers stuff.
+  services.forEach(s => {
+    const a = document.createElement('a');
+    a.href = s.url;
+    a.target = '_blank';
+    a.className = 'card';
 
-#### Searching!
+    const icon = document.createElement('span');
+    icon.className = 'icon iconify';
+    icon.setAttribute('data-icon', s.icon);
+    a.appendChild(icon);
 
-*   [LibreY](https://libre.blitzw.in/) 💜: Another "metasearch engine" that gathers results from many different search engines without tracking you. Feel free to set either it or SearXNG as your default!
-*   [Whoogle Search](https://wh.blitzw.in): Google frontend. Rate-limited too often.
+    const label = document.createElement('div');
+    label.className = 'label';
+    label.textContent = s.name;
+    a.appendChild(label);
 
+    container.appendChild(a);
+  });
+</script>
 
-#### Utility!
-*   [Send](https://send.blitzw.in): Share files with handy links!
-*   [Stirling PDF](https://pdf.blitzw.in): Helpful tools for your PDFs!
-*   [IT Tools](https://tools.blitzw.in): Loads of helpful tools for developers, like decoding and encoding stuff, generating QR codes, and more.
-*   [Privatebin](https://bin.blitzw.in): A private, encrypted Pastebin! Use it to share your love notes, code, and more.
-*   [Hat](https://hat.blitzw.in): Allows you to encrypt files and decrypt them!
-
-#### Frontends!
-
-*   [Mozhi](https://moz.blitzw.in): Another translation frontend that doesn't track you! Translate from and to many languages here.
-*   [LibreTranslate](https://lt.blitzw.in): Translation frontend with an open source model!
-*   [Breezewiki](https://fan.blitzw.in) 💜: Browse Fandom without being exposed to military ads and cringe comments made by 10-year-olds. (Including my own!)
-*   [Invidious](https://tube.blitzw.in): Watch Youtube without tracking!
-*   [Wikimore](https://wikimore.blitzw.in): A frontend for WikiMedia projects.
-*   [RedLib](https://rl.blitzw.in) 💜: Browse Reddit without being tracked!
-*   [SafeTwitch](https://twitch.blitzw.in): A Twitch frontend without tracking!
-*   [Binternet](https://pin.blitzw.in) 💜: Browse the unhinged world of Pinterest without tracking!
-*   [Quetre](https://q.blitzw.in): Browse bad opinions on Quetre without tracking!
-*   [Intelluctual](https://genius.blitzw.in): Browse song lyrics without tracking!
-
-  I also run a Snowflake proxy, with a capacity of 5 and a port range of 62950-63000. This allows people in censored countries to use parts of the internet at no cost or risk to me.
-
-### Specs:
-Both are named after TFA characters. Cliffjumper, my former small VPS, has been retired.
-#### Blurr
-* About 12GB RAM
-* 6 threads
-* 80GB space
-* Denmark-located
-* WebDock KVM VPS running Ubuntu Noble 24.04
-#### Wasp
-* 6GB RAM
-* 3 cores
-* 50 GB space
-* South Africa-located
-#### Other
-* Hat.sh and IT Tools are hosted on Vercel at no cost to me.
-
-#### Stuff I won't host
-* Any non-E2E file host such as Uguu, Chibisafe: Legal reasons. If I do, it'll be only open to friends.
-
-* PixivFE, SkunkyArt: Frontends for poorly-moderated sites that host material that is a legal risk.
-
-* Online, publicly accessible whole-web proxies like Ultraviolet: Legal risk.
-
-* Paywall bypassers: Legal risk.
-
-* Nitter: No longer practical to host on a VPS.
-
-* 4Get: I'm the exact type of person the creator would hate.
 ### Donations
-I have conflicted opinions about crypto myself, but it's available as an option if you find it most convenient.
-<details><summary>Addresses</summary>
-* litecoin: ltc1q5hw0kkddgjrwlpsj77k8k2m95f8qugyds73yyg
-
-* monero: 43JchZMdLEsiLj5TMPbV72CWzmD3gL9kD5rA42T1WoabMayde75vvKg7uRBC8nFgjNGoLm1eHoQMWdFX7dJ9mR8W1BGAuzU
-
-* nano: nano_1a5uenxmuzxbohq3kx87resk668r4mgxraceg1tn77iuk7axjjrptsu11stx
-
-* stellar public key: GBGJE4TXXFUSGJNECG4SI7QMYBXXMCGQ4G7DOLPSASPK2TJ7KJT27QLY
-</details>
-Anonpay for any currency:
-
-<iframe src="https://trocador.app/anonpay/?ticker_to=ltc&network_to=Mainnet&address=ltc1q5hw0kkddgjrwlpsj77k8k2m95f8qugyds73yyg&donation=True&simple_mode=True&name=nune&email=nune@imap.fi&ticker_from=xmr&network_from=Mainnet&bgcolor=" width="310" height="350" style="border:0" scrolling="no"></iframe> 
-
-If you don't got crypto, consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
+Consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
 
 <script src="/js/canarydate.js" defer></script>
