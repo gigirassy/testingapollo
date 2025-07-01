@@ -45,6 +45,12 @@ For anything under frontends, takedown requests will be ignored as I have no con
     <span>Redlib</span>
   </a>    
 
+  <a href="https://fan.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="picon:fandom" style="font-size:8rem;" inline></iconify-icon>
+    <span>Breezewiki</span>
+  </a>   
+
   <!-- Privatebin -->
   <a href="https://bin.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
