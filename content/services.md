@@ -37,41 +37,40 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
-<div style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
-  {{% raw %}}
-  <a href="https://rl.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="logos:reddit" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Redlib</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <a href="https://rl.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="logos:reddit" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Redlib</div>
   </a>
-  <a href="https://bin.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:paste" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Privatebin</div>
+  <a href="https://bin.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:paste" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Privatebin</div>
   </a>
-  <a href="https://moz.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:translate" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Mozhi</div>
+  <a href="https://moz.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:translate" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Mozhi</div>
   </a>
-  <a href="https://wikimore.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:wikipedia" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Wikimore</div>
+  <a href="https://wikimore.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:wikipedia" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Wikimore</div>
   </a>
-  <a href="https://tube.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:youtube" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Invidious</div>
+  <a href="https://tube.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:youtube" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Invidious</div>
   </a>
-  <a href="https://twitch.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:twitch" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">SafeTwitch</div>
+  <a href="https://twitch.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:twitch" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">SafeTwitch</div>
   </a>
-  <a href="https://pin.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:pinterest" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Binternet</div>
+  <a href="https://pin.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:pinterest" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Binternet</div>
   </a>
-  <a href="https://genius.blitzw.in" target="_blank" style="width:200px; height:200px; border-radius:1rem; text-decoration:none; display:flex; flex-direction:column; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:genius" style="font-size:4rem;"></iconify-icon>
-    <div style="margin-top:0.5rem; font-weight:bold;">Intellectual</div>
+  <a href="https://genius.blitzw.in" target="_blank" style="width:200px;height:200px;border-radius:16px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#fff;color:#333;">
+    <span class="iconify" data-icon="mdi:genius" style="font-size:4rem;"></span>
+    <div style="margin-top:0.5rem;font-weight:bold;">Intellectual</div>
   </a>
-  {{% endraw %}}
 </div>
 
 ### Donations
