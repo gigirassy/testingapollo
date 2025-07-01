@@ -40,36 +40,36 @@ For anything under frontends, takedown requests will be ignored as I have no con
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; justify-content:center; align-items:center;">
   <!-- Reddit: icon only, no text -->
   <a href="https://rl.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:reddit" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:reddit" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <!-- Other services: monochrome flat icons -->
   <a href="https://bin.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:content-paste-outline" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:content-paste-outline" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <a href="https://moz.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:translate" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:translate" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <a href="https://wikimore.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:wikipedia" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:wikipedia" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <a href="https://tube.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:youtube" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:youtube" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <a href="https://twitch.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:twitch" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:twitch" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <a href="https://pin.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:pinterest" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:pinterest" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 
   <a href="https://genius.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem; color:currentColor;" inline></iconify-icon>
+    <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem; color:white;" inline></iconify-icon>
   </a>
 </div>
 
