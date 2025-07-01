@@ -2,7 +2,7 @@
 path = "services"
 +++
 
-<script src="https://code.iconify.design/2/2.2.1/iconify.min.js" defer></script>
+<script src="https://code.iconify.design/iconify-icon/3.0.0/iconify-icon.min.js" defer></script>
 Blitzwing Services
 ------------------
 
@@ -37,41 +37,64 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
-<div style="display:flex; flex-wrap:wrap; gap:0.5rem; justify-content:center; align-items:center;">
-  <!-- Reddit: icon only, no text -->
-  <a href="https://rl.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:reddit" style="font-size:8rem; color:white;" inline></iconify-icon>
+<div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;text-align:center;color:#eee;">
+  <!-- Redlib: icon only, no label -->
+  <a href="https://rl.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:reddit" style="font-size:8rem;" inline></iconify-icon>
+    <span>Redlib</span>
+  </a>    
+
+  <!-- Privatebin -->
+  <a href="https://bin.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:content-paste-outline" style="font-size:8rem;" inline></iconify-icon>
+    <span>Privatebin</span>
   </a>
 
-  <!-- Other services: monochrome flat icons -->
-  <a href="https://bin.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:content-paste-outline" style="font-size:8rem; color:white;" inline></iconify-icon>
+  <!-- Mozhi -->
+  <a href="https://moz.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:translate" style="font-size:8rem;" inline></iconify-icon>
+    <span>Mozhi</span>
   </a>
 
-  <a href="https://moz.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:translate" style="font-size:8rem; color:white;" inline></iconify-icon>
+  <!-- Wikimore -->
+  <a href="https://wikimore.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:wikipedia" style="font-size:8rem;" inline></iconify-icon>
+    <span>Wikimore</span>
   </a>
 
-  <a href="https://wikimore.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:wikipedia" style="font-size:8rem; color:white;" inline></iconify-icon>
+  <!-- Invidious -->
+  <a href="https://tube.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:youtube" style="font-size:8rem;" inline></iconify-icon>
+    <span>Invidious</span>
   </a>
 
-  <a href="https://tube.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:youtube" style="font-size:8rem; color:white;" inline></iconify-icon>
+  <!-- SafeTwitch -->
+  <a href="https://twitch.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:twitch" style="font-size:8rem;" inline></iconify-icon>
+    <span>SafeTwitch</span>
   </a>
 
-  <a href="https://twitch.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:twitch" style="font-size:8rem; color:white;" inline></iconify-icon>
+  <!-- Binternet -->
+  <a href="https://pin.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:pinterest" style="font-size:8rem;" inline></iconify-icon>
+    <span>Binternet</span>
   </a>
 
-  <a href="https://pin.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:pinterest" style="font-size:8rem; color:white;" inline></iconify-icon>
+  <!-- Intellectual -->
+  <a href="https://genius.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem;" inline></iconify-icon>
+    <span>Intellectual</span>
   </a>
+</div
 
-  <a href="https://genius.blitzw.in" target="_blank" style="width:200px; height:200px; display:flex; align-items:center; justify-content:center;">
-    <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem; color:white;" inline></iconify-icon>
-  </a>
-</div>
 
 ### Donations
 Consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
