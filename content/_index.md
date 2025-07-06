@@ -21,3 +21,4 @@ If you're in the United States, I recommend doing something on this <a href="htt
 ## Contact
 
 A reliable way to contact me is through Discord DMs, located under the @blitzw.in username. Friend me first for a vibe check. You can also contact me on TFW2005.
+<img src="https://discord.c99.nl/widget/theme-1/719518275012132886.png">
