@@ -32,7 +32,6 @@ menu = [
 socials = [
     { name = "instagram", url = "https://instagram.com/blitzw.in", icon = "instagram" },
     { name = "tfw2005", url = "https://www.tfw2005.com/boards/members/nune.139750/", icon = "tfw" },
-    { name = "fediverse (sharkey)", url = "https://icy.blitzw.in/@nune", icon = "fediverse" },
 ]
 
 badge = [
