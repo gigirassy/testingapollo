@@ -37,18 +37,26 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
+A heart means it's protected by Anubis.
+
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;text-align:center;color:#eee;">
   <!-- Redlib: icon only, no label -->
+    <a href="https://searxng.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <iconify-icon icon="rivet-icons:magnifying-glass" style="font-size:8rem;" inline></iconify-icon>
+    <span>SearXNG 💜</span>
+  </a>    
+
   <a href="https://rl.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:reddit" style="font-size:8rem;" inline></iconify-icon>
-    <span>Redlib</span>
+    <span>Redlib 💜</span>
   </a>    
 
   <a href="https://fan.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="picon:fandom" style="font-size:8rem;" inline></iconify-icon>
-    <span>Breezewiki</span>
+    <span>Breezewiki 💜</span>
   </a>   
 
   <!-- Privatebin -->
@@ -76,7 +84,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
   <a href="https://tube.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:youtube" style="font-size:8rem;" inline></iconify-icon>
-    <span>Invidious</span>
+    <span>Invidious 💜</span>
   </a>
 
   <!-- SafeTwitch -->
@@ -90,7 +98,7 @@ For anything under frontends, takedown requests will be ignored as I have no con
   <a href="https://pin.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:pinterest" style="font-size:8rem;" inline></iconify-icon>
-    <span>Binternet</span>
+    <span>Binternet 💜</span>
   </a>
 
   <!-- Intellectual -->
