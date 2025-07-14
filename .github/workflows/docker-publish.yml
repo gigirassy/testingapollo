@@ -34,8 +34,8 @@ jobs:
             cp config-tor.toml config.toml
             cp TorDockerfile Dockerfile
           else
-            cp config.toml config.toml
-            cp Dockerfile Dockerfile
+            cp config-clearnet.toml config.toml
+            cp ClearnetDockerfile Dockerfile
           fi
 
       - name: Install cosign
