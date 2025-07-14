@@ -34,8 +34,8 @@ jobs:
             cp config-tor.toml config.toml
             cp TorDockerfile Dockerfile
           else
-            cp config.toml.orig config.toml
-            cp Dockerfile.orig Dockerfile
+            cp config.toml config.toml
+            cp Dockerfile Dockerfile
           fi
 
       - name: Install cosign
