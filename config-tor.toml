@@ -1,0 +1,52 @@
+base_url = "https://blitzdyzbtsncxpwhxzznb64nx6fbmhtjtsb7cr7qhsemad2vmamrnad.onion/"
+title = "Nune's Site 🍉Ⓐ"
+description = "Nune's handy website!"
+build_search_index = false
+generate_feeds = true
+compile_sass = true
+minify_html = true
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+highlight_code = true
+highlight_theme = "ayu-light"
+
+[extra]
+toc = true
+use_cdn = false
+favicon = "/icon/favicon.png"
+theme = "toggle"              # light, dark, auto, toggle
+fancy_code = true
+dynamic_note = true           # a note that can be toggled
+mathjax = false
+mathjax_dollar_inline_enable = false
+repo_url = "https://github.com/not-matthias/apollo/tree/main/content"
+
+menu = [
+    { name = "index", url = "/", weight = 1 },
+    { name = "services", url = "/services", weight = 2 },
+    { name = "tech", url = "/tech", weight = 3 },
+    { name = "other", url = "/other", weight = 4 },
+]
+
+socials = [
+    { name = "instagram", url = "https://instagram.com/blitzw.in", icon = "instagram" },
+    { name = "tfw2005", url = "https://www.tfw2005.com/boards/members/nune.139750/", icon = "tfw" },
+]
+
+badge = [
+    { name = "pal", url = "https://gazafunds.com/"},
+]
+
+custom_css = []
+
+[extra.analytics]
+enabled = false
+
+[extra.analytics.goatcounter]
+user = "your_user"
+host = "example.com" # default= goatcounter.com
+
+[extra.analytics.umami]
+website_id = "43929cd1-1e83...."
+host_url = "https://stats.mywebsite.com" # default: https://analytics.eu.umami.is
