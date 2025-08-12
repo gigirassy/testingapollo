@@ -107,6 +107,28 @@ A heart means it's protected by Anubis.
     <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem;" inline></iconify-icon>
     <span>Intellectual</span>
   </a>
+
+  <a href="https://rens.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>Rens (Google Lens)</span>
+  </a>
+
+  <a href="https://sc.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>Soundcloak</span>
+    <span style="font-size:6px;">Under basic auth. Enter with username <i>guest</i> and password <i>soundcloud</i></span>
+  </a>
+
+  <a href="https://pad.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>CryptPad (e2e collab suite)</span>
+  </a>
+
+  <a href="https://memo.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>Etherpad</span>
+    <span style="font-size:6px;">As Etherpad isn't e2e, use CryptPad or PrivateBin for more sensitive info.</span>
+  </a>
 </div>
 
 
