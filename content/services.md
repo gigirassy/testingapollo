@@ -10,17 +10,7 @@ These are services I host on subdomains of this site, through VPSes, and simple 
 
 I had some misadventures beforehand, before I realized a VPS with Caddy and Docker would be easier. (and easier it was!)
 #### Usage Policy
-By using the services, you agree that you will not use them for:
-
-* exploitation of others, such as malware
-
-* DDoS/memory flooding/unauthorized uptime checks
-
-* data scraping or commercial activities (host your own instead!)
-
-* purposes related to harmful structures, such as policing
-
-* immoral content; this includes CSAM (including of fictional characters), conspiracy theories, hate ideologies, and other nasty content.
+There used to be something longer here, but basically: follow basic moral standards. Don't be the reason why our friend Squawktalk leaves.
 
 <details><summary>Privacy</summary>
 By design, I do not log your usage of the services at all. The only things I log related to them are anonymous analytics of visits to this page via Umami, which can not personally identify you and are used to benefit the services via checking if they're being served fairly.
@@ -37,6 +27,8 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 ### Services
 
+Are you using Tor? Also <a href="https://seekers.blitzw.in/">check out the Seeker relay</a>!
+
 A heart means it's protected by Anubis.
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;text-align:center;color:#eee;">
@@ -51,7 +43,23 @@ A heart means it's protected by Anubis.
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:reddit" style="font-size:8rem;" inline></iconify-icon>
     <span>Redlib 💜</span>
-  </a>    
+  </a>
+
+  <a href="https://server.poke.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>Pokemon Showdown<br>(warning: uses official client with ads)</span>
+  </a>
+
+
+  <a href="https://mirage.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>Mirage (experimental)</span>
+  </a>
+
+  <a href="https://guest:ladd!r1234@ladder.blitzw.in" target="_blank"
+     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+    <span>Ladder (because paywalls are terrible)</span>
+  </a>  
 
   <a href="https://fan.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -113,10 +121,9 @@ A heart means it's protected by Anubis.
     <span>Rens (Google Lens)</span>
   </a>
 
-  <a href="https://sc.blitzw.in" target="_blank"
+  <a href="https://guest:soundcloud@sc.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <span>Soundcloak</span>
-    <span style="font-size:6px;">Under basic auth. Enter with username <i>guest</i> and password <i>soundcloud</i></span>
   </a>
 
   <a href="https://pad.blitzw.in" target="_blank"
