@@ -1,4 +1,4 @@
-+++ path = "SomeActions" +++
++++ path = "somesctions" +++
 
 
 ## The below text is a mirror of Mariame Kaba's document originally hosted on Google Docs. It is not written by me in any way, shape or form, but I find it very helpful.
