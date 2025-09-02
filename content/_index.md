@@ -22,6 +22,7 @@ If you're in the United States, I recommend doing something on this <a href="htt
 
 A reliable way to contact me is through Discord DMs, located under the @blitzw.in username. Friend me first for a vibe check. You can also contact me on TFW2005.
 <img src="https://discord.c99.nl/widget/theme-1/719518275012132886.png">
+
 If you need something E2E, <a href="https://getsession.org/download">try Session</a>; and then copy this id.
 ```
 0592fbc4ef894179a0f7af471c6ef027e343954e064d011ca2f611e44968bcff57
