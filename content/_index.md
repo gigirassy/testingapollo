@@ -9,7 +9,7 @@ In my free time, I take funny pictures of my toys, advocate against lawns, do ar
 
 I am simultaneously the most legally insane and sane person on the internet at once.
 
-If you're in the United States, I recommend doing something on this <a href="https://l.blitzw.in/SomeActions">list of actions other than protesting or voting</a> by Mariame Kaba and sharing with your friends.
+If you're in the United States, I recommend doing something on this <a href="https://blitzw.in/SomeActions">list of actions other than protesting or voting</a> by Mariame Kaba and sharing with your friends.
 
 **What you're probably here for are my services like my Redlib and Breezewiki instances! You can see them via the Services portion of the navbar.**
 ## Webrings
