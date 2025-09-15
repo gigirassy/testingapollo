@@ -29,117 +29,103 @@ For anything under frontends, takedown requests will be ignored as I have no con
 
 Are you using Tor? Also <a href="https://seekers.blitzw.in/">check out the Seeker relay</a>!
 
-A heart means it's protected by Anubis.
+A purple heart means it's protected by Anubis.
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;text-align:center;color:#eee;">
   <!-- Redlib: icon only, no label -->
     <a href="https://searxng.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="rivet-icons:magnifying-glass" style="font-size:8rem;" inline></iconify-icon>
-    <span>SearXNG 💜</span>
+    <span>SearXNG 💜💙</span>
   </a>    
 
   <a href="https://rl.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:reddit" style="font-size:8rem;" inline></iconify-icon>
-    <span>Redlib 💜</span>
+    <span>Redlib 💜💙</span>
   </a>
-
-  <a href="https://server.poke.blitzw.in" target="_blank"
-     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>Pokemon Showdown<br>(warning: uses official client with ads)</span>
-  </a>
-
 
   <a href="https://mirage.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>Mirage (experimental)</span>
+    <span>Mirage (experimental)💙</span>
   </a>
 
   <a href="https://guest:ladd!r1234@ladder.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>Ladder (because paywalls are terrible)</span>
+    <span>Ladder (because paywalls are terrible)💙</span>
   </a>  
 
   <a href="https://fan.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="picon:fandom" style="font-size:8rem;" inline></iconify-icon>
-    <span>Breezewiki 💜</span>
+    <span>Breezewiki 💜💙</span>
   </a>   
 
   <!-- Privatebin -->
   <a href="https://bin.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:pastebin" style="font-size:8rem;" inline></iconify-icon>
-    <span>Privatebin</span>
+    <span>Privatebin 🧡</span>
   </a>
 
   <!-- Mozhi -->
   <a href="https://moz.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:translate" style="font-size:8rem;" inline></iconify-icon>
-    <span>Mozhi</span>
+    <span>Mozhi 💙</span>
   </a>
 
   <!-- Wikimore -->
   <a href="https://wikimore.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:wikipedia" style="font-size:8rem;" inline></iconify-icon>
-    <span>Wikimore</span>
-  </a>
-
-  <!-- Invidious -->
-  <a href="https://tube.blitzw.in" target="_blank"
-     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <iconify-icon icon="mdi:youtube" style="font-size:8rem;" inline></iconify-icon>
-    <span>Invidious 💜</span>
+    <span>Wikimore 💜💙</span>
   </a>
 
   <!-- SafeTwitch -->
   <a href="https://twitch.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:twitch" style="font-size:8rem;" inline></iconify-icon>
-    <span>SafeTwitch</span>
+    <span>SafeTwitch 💙</span>
   </a>
 
   <!-- Binternet -->
   <a href="https://pin.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:pinterest" style="font-size:8rem;" inline></iconify-icon>
-    <span>Binternet 💜</span>
+    <span>Binternet 💜💙</span>
   </a>
 
   <!-- Intellectual -->
   <a href="https://genius.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <iconify-icon icon="mdi:lightbulb-outline" style="font-size:8rem;" inline></iconify-icon>
-    <span>Intellectual</span>
+    <span>Intellectual 💙</span>
   </a>
 
   <a href="https://rens.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>Rens (Google Lens)</span>
+    <span>Rens (Google Lens) 💙</span>
   </a>
 
   <a href="https://guest:soundcloud@sc.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>Soundcloak</span>
+    <span>Soundcloak 💙</span>
   </a>
 
   <a href="https://pad.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>CryptPad (e2e collab suite)</span>
-  </a>
-
-  <a href="https://memo.blitzw.in" target="_blank"
-     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>Etherpad</span>
-    <span style="font-size:6px;">As Etherpad isn't e2e, use CryptPad or PrivateBin for more sensitive info.</span>
+    <span>CryptPad (e2e collab suite) 🧡</span>
   </a>
 </div>
 
 
-### Donations
-Consider contributing to [my wishlist](https://throne.com/gigirassy) so I can have more money left to pay for the services. It helps a ton as me and my family have virtually no income at the moment, and it's anonymous as well. Costs for my services total to around 15 USD a month. [You can also buy me books from Bookshop.org](https://bookshop.org/wishlists/61ca8d380887896314d43867300b67839f0ef315) if you'd like.
+### Servers
+#### Home server ❤️
+An HP Compaq from long ago with 2GB RAM and a Pentium CPU. Because of how dated it is, it hosts only a few small things. It runs AntiX Linux.
+#### NixOS Gleebus Machine 💙
+An ARM64 VPS from Hetzner, converted to NixOS. Costs 3.79 Euro a month.
+#### Ub*ntu Gleebus Machine 🧡
+My old longtime VPS that I've downgraded a lot.
 
 <script src="/js/canarydate.js" defer></script>
