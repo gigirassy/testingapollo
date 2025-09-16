@@ -61,13 +61,6 @@ A purple heart means it's protected by Anubis.
     <span>Breezewiki 💜💙</span>
   </a>   
 
-  <!-- Privatebin -->
-  <a href="https://bin.blitzw.in" target="_blank"
-     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <iconify-icon icon="mdi:pastebin" style="font-size:8rem;" inline></iconify-icon>
-    <span>Privatebin 🧡</span>
-  </a>
-
   <!-- Mozhi -->
   <a href="https://moz.blitzw.in" target="_blank"
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
@@ -112,20 +105,15 @@ A purple heart means it's protected by Anubis.
      style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
     <span>Soundcloak 💙</span>
   </a>
-
-  <a href="https://pad.blitzw.in" target="_blank"
-     style="width:200px;height:200px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
-    <span>CryptPad (e2e collab suite) 🧡</span>
   </a>
 </div>
 
 
 ### Servers
-#### Home server ❤️
-An HP Compaq from long ago with 2GB RAM and a Pentium CPU. Because of how dated it is, it hosts only a few small things. It runs AntiX Linux.
-#### NixOS Gleebus Machine 💙
-An ARM64 VPS from Hetzner, converted to NixOS. Costs 3.79 Euro a month.
-#### Ub*ntu Gleebus Machine 🧡
-My old longtime VPS that I've downgraded a lot.
-
+#### Space Case ❤️
+An HP Compaq from long ago with 2GB RAM and a Pentium CPU. Because of how dated it is, it hosts only a few small things like Gitea. It runs AntiX Linux and is routed through Skyjack via Tailscale. Because this server is located in the corner of my upstairs bedroom, connections might not be too reliable. I plan to get a dual-band adapter to fix that.
+#### Hooligan 💙
+An ARM64 VPS from Hetzner, converted to NixOS. Costs 3.79 Euro/4.70 USD a month and hosts most of the services here.
+#### Skyjack 🧡
+A cheap 3-buck VPS from Interserver, hosting my site, also converted to NixOS. Planned to host a new instance of Privatebin in the future.
 <script src="/js/canarydate.js" defer></script>
