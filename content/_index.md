@@ -11,7 +11,7 @@ I am simultaneously the most legally insane and sane person on the internet at o
 
 If you're in the United States, I recommend doing something on this <a href="https://blitzw.in/SomeActions">list of actions other than protesting or voting</a> by Mariame Kaba and sharing with your friends.
 
-**What you're probably here for are my services like my Redlib and Breezewiki instances! You can see them via the Services portion of the navbar.**
+**What you're probably here for are my services like my Redlib and Breezewiki instances! You can see them via this link:** https://services.blitzw.in/
 ## Webrings
 <details><summary>Woah, webrings!</summary>
     <p><span><a href="https://webring.dinhe.net/prev/https://www.blitzw.in">prev</a> | <a href="https://webring.dinhe.net/">retronaut</a> | <a href="https://webring.dinhe.net/next/https://www.blitzw.in">next</a></span></p>
