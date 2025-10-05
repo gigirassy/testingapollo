@@ -24,9 +24,8 @@ repo_url = "https://github.com/not-matthias/apollo/tree/main/content"
 
 menu = [
     { name = "index", url = "/", weight = 1 },
-    { name = "services", url = "/services", weight = 2 },
-    { name = "tech", url = "/tech", weight = 3 },
-    { name = "other", url = "/other", weight = 4 },
+    { name = "tech", url = "/tech", weight = 2 },
+    { name = "other", url = "/other", weight = 3 },
 ]
 
 socials = [
